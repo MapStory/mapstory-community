@@ -23,7 +23,7 @@ We can specify the structure of this csv in the documentation, and have users ma
 out of bad files, just give them an error message on the proper format. We probably want to give them the option
 to either append their existing annotations or to overwrite them.
 
-**Media** We need to add in an option for users to add a youtube video or picture. Bart did initial work on this,
+**Media** - We need to add in an option for users to add a youtube video or picture. Bart did initial work on this,
 but it involved inline editing of html. We did this because it was very hard to change the backend model. This 
 should be much easier with the change to Django for storing annotations. Ian suggested we just use a single url
 field and detect the media type like we do elsewhere on mapstory. So need to just have a 'media' button in addition
@@ -31,21 +31,45 @@ to 'description' where users can enter a url for a picture or youtube video. Ide
 enter a url that is not either. We could also just let them enter a link there, and make it a hyperlink to click
 on in the annotation.
 
+One smaller improvement that Ivan suggested is it would be nice to hit at least a bit is the selection of dates.
+Right now it defaults to the current date when you use the date drop downs. That seems like one of the worst defaults,
+since mapstory is all about history. So would be nice to have at least that small improvement, and would be great
+to have something more intuitive in general for selection of what the annotation applies to. 
+
 ### Wireframes
 (placeholder)
 
 Questions to be answered by wireframes:
 
-Where do we do bulk upload?
-More intuitive dragging of notes
-Evolution of 'notes' drop down. Does edit go away, since all fields should be editable? 
-Dealing with 5000 notes - bulk delete?
+What is the overall 'notes' interface. We want the grid editor in there, but does it replace existing buttons?
+One way to go might be to have 'notes' button open up the grid editor and any additional buttons needed. Does
+'edit' drop away because we have an editable grid? 
+
+Where do we do bulk upload? What is the workflow for it? How do you choose to overwrite vs append? Is there
+a default action, or does it ask you every time? 
+
+How do you deal with 5000 notes? Is there paging of some sort? Bulk edit actions? Thinking like 'delete', if
+you accidentally import the wrong notes or too many.
+
+A nice improvement suggested by Ivan would be to have the date default to the map's current date, instead of
+today's date. In general would be nice to flesh out some more intuitive date selection instead of date drop
+downs. Perhaps a slider that has the start and end at the time range of the map, that you can slide up and down to select.
+Implementation of this may be beyond the scope of this round, but some wireframes would be great. 
+
+Would be awesome to have some exploration of a more intuitive way to add notes. The dialog right now is fairly
+clunky. Some that are a bit more intuitive are http://meograph.com and http://historypin.com Tucker likes the 
+idea of just dragging a note on to the map. Again this may be beyond scope for this round, but would be good
+to have some nice wireframes.
+
 
 ### Tech thoughts / plan
 
- - refactor backend
- - stick with ext on front end
- - openlayers protocol
+First step is to refactor the annotation backend to use django models with some geospatial and temporal fields
+instead of using WFS. This will let us change the annotations model much more easily, as well as do upload without
+having to bother with GeoServer's importer code.
+
+Second is to implement an openlayers protocol so our annotations can be treated as features. This will be used with
+GeoExt's feature manager and displayed in a grid. We will implement all in Ext.js and associated libraries.
  
 
 #### People
