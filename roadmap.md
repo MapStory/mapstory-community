@@ -5,27 +5,19 @@ is made and priorities shift as we learn more from users.
 
 ### Immediate (within 4 weeks)
 
-(Annotations Improvements
- - Refactor to django
- - Grid editor
- - bulk upload of csv
- - Youtube and pictures working
- - clone when 'save a copy'
+**[Annotations Improvements] (items/annotations.md)** - Bulk upload of annotations and a better editor.
 
-Raster and uploader improvements
- - client side validation
- - user support
- - work towards new uploader
+**[Raster and uploader improvements] (items/raster.md)** - Iterative improvements for raster handling and 
+uploading of data.
 
-More screen real estate for maps
- - button moving
- - thin bottom for time slider
 
-Community improvements
- - workflow for questions and triage
- - manual/help consolidation
+**[Buttonology] (items/buttonology.md)** - Moving of buttons and slimming of panels for more map real estate. 
 
-Organization pages 
+**[Community Infrastructure] (items/community-infra.md)** - Better tools and structures for supporting the community, 
+and to help the community support itself.
+
+
+**[Organization pages] (items/org-pages.md)** - Pages for organizations to feature links and work in MapStory.
 
 ### Short (1 month - 3 months)
 
