@@ -1,0 +1,5 @@
+ - Refactor to django
+ - Grid editor
+ - bulk upload of csv
+ - Youtube and pictures working
+ - clone when 'save a copy'
