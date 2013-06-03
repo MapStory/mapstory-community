@@ -37,21 +37,30 @@ Scalability improvements
 
 Warper integration (first round)
 
-oauth with wiki
+**[OAuth integration with warper and wiki] (items/oauth.md)** - Enable MapStory login to work on http://warper.mapstory.org and http://wiki.mapstory.org
 
 GeoGit on tools.mapstory.org
 
 ### Medium (3 month - 9 month)
 
-Messaging between users
+**[Messaging between users] (items/messaging.md)** - Users should be able to send feedback and messages to one another
+through the mapstory platform, without having to reveal their email addresses.
 
-User control over 'resources for', 'sections', 'topics' and 'storytellers'
+**[User control over 'resources for', 'sections', and 'topics'] (items/user-control.md)** - The same type of links and media ribbon
+in organization pages should be customizable from the 'resources', 'sections' and 'topics' pages.
+
+**[Improve storytellers/profile pages] (items/storytellers.md)** - We should enable links and media ribbon options for users.
+And also should redo the whole profile/storyteller editing flow, as it's confusing.
 
 Embed on more platforms
 
-Iconcommons and icons in mapstory
+**[Iconcommons and better mapstory icons] (items/iconcommons.md)** - Create a sharing site for icons, for anyone to post 
+open icons. And hook it in to the MapStory platform, so users can select from a wider variety of icons.
 
-'developer tab'
+**[Developer Tab] (items/developer-tab.md)**
+
+**[Social Login] (items/social-login.md)** Be able to login to mapstory with facebook and google, and grab the relevant 
+picture, name and email.
 
 CSW + permissioning infrastructure (GN 2.0 upgrade)
 
