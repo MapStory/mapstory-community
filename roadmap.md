@@ -21,10 +21,8 @@ and to help the community support itself.
 
 ### Short (1 month - 3 months)
 
-New Uploader
- - client side validation
- - add a new raster to a mosiac
- - testing and awesome error messages
+**[New Uploader] (items/uploader.md)** - New infrastructure for more robust handling, with client side validation and 
+being able to add a raster to an existing storylayer.
 
 Search improvements
 
