@@ -1,4 +1,4 @@
-### Description
+## Annotations improvements
 
 MapStory's annotations are so bad as to be practically unusable. Let's make them at least usable.
 
