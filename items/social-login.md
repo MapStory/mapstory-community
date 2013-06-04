@@ -1,4 +1,3 @@
-
 ### Description
 
 Instead of making people signup for yet another account we should allow them to login with an existing Google or
@@ -30,3 +29,8 @@ generates a password for just their mapstory account. Then they can login withou
 login they used. It should be able to use the email associated with the account.
 * Bring twitter in, with required email sign up.
 
+### Issues
+
+https://github.com/opengeo/mapstory/issues/611
+https://github.com/opengeo/mapstory/issues/718
+https://github.com/opengeo/mapstory/issues/607
