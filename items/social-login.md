@@ -29,8 +29,11 @@ generates a password for just their mapstory account. Then they can login withou
 login they used. It should be able to use the email associated with the account.
 * Bring twitter in, with required email sign up.
 
+### People
+Need a django resource for this.
+
 ### Issues
 
-https://github.com/opengeo/mapstory/issues/611
-https://github.com/opengeo/mapstory/issues/718
-https://github.com/opengeo/mapstory/issues/607
+* https://github.com/opengeo/mapstory/issues/611
+* https://github.com/opengeo/mapstory/issues/718
+* https://github.com/opengeo/mapstory/issues/607
