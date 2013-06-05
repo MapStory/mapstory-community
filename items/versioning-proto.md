@@ -19,7 +19,7 @@ After that is set up a key step will be to make it so that improvements there ar
 ### Tech plan/thoughts
 
 * Should set up a new GeoNode for the versioning. A complete separate interface.
-* Would be good to get login working across both GeoNodes, like the work in [oauth.md]
+* Would be good to get login working across both GeoNodes, like the work in the [Login roadmap item] (oauth.md)
 * They should talk to the same database, so that changes in the versioning interface get reflected
 in the main MapStory story.
 * To work well will need a way to notify GeoWebCache of the changes made.
