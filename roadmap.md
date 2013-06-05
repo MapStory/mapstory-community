@@ -24,18 +24,18 @@ and to help the community support itself.
 **[New Uploader] (items/uploader.md)** - New infrastructure for more robust handling, with client side validation and 
 being able to add a raster to an existing storylayer.
 
-Search improvements
+**[Search improvements] (items/search-new.md)** - Search in the map that feels/works more like the site's search. 
+Hopefully with some nice map-relevant improvements.
 
-OL3 / new time slider investigation
- - start with just 'map' pages
+**[New Time Control] (items/time-new.md)** - First investigation of a new time control that is more intuitive and
+responsive. Start with just the 'map' pages, not the full composer, just focused on playback. Depends on incorporating
+OpenLayers 3.
 
-Scalability improvements
- - GS 2.3
- - Cloudfront caching
+**[Scalability improvements] (items/scalability.md)** - Put a cluster of GeoServers behind MapStory, and upgrade to 
+Cloudfront caching.
 
-Warper integration (first round)
-
-**[OAuth integration with warper and wiki] (items/oauth.md)** - Enable MapStory login to work on http://warper.mapstory.org and http://wiki.mapstory.org
+**[OAuth integration with warper and wiki] (items/oauth.md)** - Enable MapStory login to work on 
+http://warper.mapstory.org and http://wiki.mapstory.org
 
 GeoGit on tools.mapstory.org
 
@@ -51,6 +51,8 @@ in organization pages should be customizable from the 'resources', 'sections' an
 And also should redo the whole profile/storyteller editing flow, as it's confusing.
 
 Embed on more platforms
+
+**[Warper integration] (items/warper.md)** - A more seamless workflow to upload scanned map and warp it and add to a StoryLayer.
 
 **[Iconcommons and better mapstory icons] (items/iconcommons.md)** - Create a sharing site for icons, for anyone to post 
 open icons. And hook it in to the MapStory platform, so users can select from a wider variety of icons.
