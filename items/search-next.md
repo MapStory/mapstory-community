@@ -14,7 +14,7 @@ Ivan started, Steven should help with design decisions, and may tap Bart to help
 
 ### Issues
 
-[Overview of Issues] (https://github.com/MapStory/mapstory/issues?labels=New+Map+Search&milestone=11&page=1&state=open)
+See [Overview of Issues] (https://github.com/MapStory/mapstory/issues?labels=New+Map+Search&milestone=11&page=1&state=open)
 
 The most important remaining ones are:
 
