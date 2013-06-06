@@ -14,5 +14,8 @@ All
 
 ### Issues
 
-There is the [Triage label] (https://github.com/MapStory/mapstory/issues?labels=Triage&state=open) which 
-has been used to mark user issues. But it's not used consistently by all.
+The [User Driven label] (https://github.com/MapStory/mapstory/issues?labels=User+Driven&milestone=&page=1&state=open)
+is used to mark issues that were actually reported by users. Each release should have a number of these. Can update
+the following url to always be the next release, and thus the immediate priorities:
+
+https://github.com/MapStory/mapstory/issues?labels=User+Driven&milestone=15&page=1&state=open
