@@ -55,7 +55,10 @@ more platforms.
 **[Warper integration] (items/warper.md)** - A more seamless workflow to upload scanned map and warp it and add to a StoryLayer.
 
 **[Iconcommons and better mapstory icons] (items/iconcommons.md)** - Create a sharing site for icons, for anyone to post 
-open icons. And hook it in to the MapStory platform, so users can select from a wider variety of icons.
+open icons. 
+
+**[Better support for icons in styling] (items/icon-styling.md)** - Build the facility for our styler tools to refer
+to a remote set of icons. And make compatible with [Iconcommons](items/iconcommons.md).
 
 **[Developer Tab] (items/developer-tab.md)** - Add a section of the map/layer pages that lets developers know how
 they can programmatically access the map and its data, like with openlayers, google maps, wms, wfs, etc.
