@@ -43,10 +43,7 @@ MapStory layers in a sandbox area on tools.mapstory.org
 
 ### Medium (3 month - 9 month)
 
-**[Messaging between users] (items/messaging.md)** - Users should be able to send feedback and messages to one another
-through the mapstory platform, without having to reveal their email addresses.
-
-**[User control over 'resources for', 'sections', and 'topics'] (items/user-control.md)** - The same type of links and media ribbon
+**[Admin control over 'resources for', 'sections', and 'topics' pages] (items/custom-pages.md)** - The same type of links and media ribbon
 in organization pages should be customizable from the 'resources', 'sections' and 'topics' pages.
 
 **[Improve storytellers/profile pages] (items/storytellers.md)** - We should enable links and media ribbon options for users.
@@ -60,9 +57,10 @@ more platforms.
 **[Iconcommons and better mapstory icons] (items/iconcommons.md)** - Create a sharing site for icons, for anyone to post 
 open icons. And hook it in to the MapStory platform, so users can select from a wider variety of icons.
 
-**[Developer Tab] (items/developer-tab.md)**
+**[Developer Tab] (items/developer-tab.md)** - Add a section of the map/layer pages that lets developers know how
+they can programmatically access the map and its data, like with openlayers, google maps, wms, wfs, etc.
 
-**[Social Login] (items/social-login.md)** Be able to login to mapstory with facebook and google, and grab the relevant 
+**[Social Login] (items/social-login.md)** - Be able to login to mapstory with facebook and google, and grab the relevant 
 picture, name and email.
 
 **[CSW + permissioning infrastructure (GN 2.0 upgrade)] (items/geonode2.md)** - Incorporate pycsw and the richer
@@ -77,6 +75,9 @@ functionality for easier migration.
 
 **[Location Guided MapStories (XYT frames)] (items/guided-stories.md)** - Add the ability for the story teller to 
 guide the user, with the map updating zoom level and location for their narrative.
+
+**[Messaging between users] (items/messaging.md)** - Users should be able to send feedback and messages to one another
+through the mapstory platform, without having to reveal their email addresses.
 
 ### Long Term (9 months to 18 months - funding dependent)
 
