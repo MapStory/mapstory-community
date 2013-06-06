@@ -29,3 +29,12 @@ test and qa, add new data sets for testing - focused on making sure everything w
 try out autoscaling
 do scalability tests, focused on big loads and seeing it hold up
 deploy.
+
+For CloudFront there are some gotchas to get it working perfectly. From Ian:
+
+Maps won't work at the moment - see #733. The pages won't even render if geoserver is down. This is because during the 
+template render, there are REST calls that will cause the whole page to fail. GeoNode2 tries to handle this by 
+caching/duplicating all of geoserver's information in it's own models but this approach is still incomplete as 
+the page will render but the map will be broken (with no notice to the user) and adds much complexity. 
+As a fix for #733, I'd like to resolve the resources up front (before the render) and take appropriate action 
+(put notice on the page and avoid pink tiles) if geoserver is down.
