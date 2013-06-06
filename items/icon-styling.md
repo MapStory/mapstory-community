@@ -1,4 +1,4 @@
-## Improve styler for better icons
+## Improve styler for better icon management
 
 We should be able to access nicer sets of icons than what SLD can create.
 
