@@ -23,3 +23,6 @@ other options at https://www.djangopackages.com/grids/g/messaging/ and another o
 After evaluating what to use should see if our activity stuff can hook up to it so those messages also
 go to the user's inbox if there is one.
 
+### Issues
+https://github.com/MapStory/mapstory/issues/738 is the issue to track. Once we schedule can turn this in
+to a label and more issues.
