@@ -1,4 +1,4 @@
-## Iconcommons and better mapstory icons 
+## Iconcommons for icon upload
 
 Create a sharing site for icons, for anyone to post open icons. And hook it in to the 
 MapStory platform, so users can select from a wider variety of icons. [icon-styling.md](icon-styling.md)
