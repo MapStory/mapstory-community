@@ -38,7 +38,7 @@ Cloudfront caching.
 **[OAuth integration with warper and wiki] (items/oauth.md)** - Enable MapStory login to work on 
 http://warper.mapstory.org and http://wiki.mapstory.org
 
-**[Versioning Prototype] (versioning-proto.md)** - Deployment of GeoGit with GeoNode to allow users to edit select
+**[Versioning Prototype] (items/versioning-proto.md)** - Deployment of GeoGit with GeoNode to allow users to edit select
 MapStory layers in a sandbox area on tools.mapstory.org
 
 ### Medium (3 month - 9 month)
