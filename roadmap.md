@@ -5,21 +5,22 @@ is made and priorities shift as we learn more from users.
 
 ### Immediate (within 4 weeks)
 
-**[Annotations Improvements] (items/annotations.md)** - Bulk upload of annotations and a better editor.
+**[Annotations Improvements] (items/annotations.md)** - Bulk upload of annotations and a better editor. (Ivan)
 
 **[Raster and uploader improvements] (items/raster.md)** - Iterative improvements for raster handling and 
-uploading of data.
+uploading of data. (Ian)
 
+**[Buttonology] (items/buttonology.md)** - Moving of buttons and slimming of panels for more map real estate. (Bart)
 
-**[Buttonology] (items/buttonology.md)** - Moving of buttons and slimming of panels for more map real estate. 
+**[Organization pages] (items/org-pages.md)** - Pages for organizations to feature links and work in MapStory. (Done)
+
+**[User support and iterative improvements] (items/user-support.md)** - Constantly improve MapStory based on feedback
+from users.
+
+### Short (1 month - 3 months)
 
 **[Community Infrastructure] (items/community-infra.md)** - Better tools and structures for supporting the community, 
 and to help the community support itself.
-
-
-**[Organization pages] (items/org-pages.md)** - Pages for organizations to feature links and work in MapStory.
-
-### Short (1 month - 3 months)
 
 **[New Uploader] (items/uploader.md)** - New infrastructure for more robust handling, with client side validation and 
 being able to add a raster to an existing storylayer.
@@ -27,7 +28,7 @@ being able to add a raster to an existing storylayer.
 **[Search improvements] (items/search-new.md)** - Search in the map that feels/works more like the site's search. 
 Hopefully with some nice map-relevant improvements.
 
-**[New Time Control] (items/time-new.md)** - First investigation of a new time control that is more intuitive and
+**[New Time Control Investigation] (items/time-new.md)** - First investigation of a new time control that is more intuitive and
 responsive. Start with just the 'map' pages, not the full composer, just focused on playback. Depends on incorporating
 OpenLayers 3.
 
@@ -37,7 +38,8 @@ Cloudfront caching.
 **[OAuth integration with warper and wiki] (items/oauth.md)** - Enable MapStory login to work on 
 http://warper.mapstory.org and http://wiki.mapstory.org
 
-GeoGit on tools.mapstory.org
+**[Versioning Prototype] (versioning-proto.md)** - Deployment of GeoGit with GeoNode to allow users to edit select
+MapStory layers in a sandbox area on tools.mapstory.org
 
 ### Medium (3 month - 9 month)
 
@@ -50,7 +52,8 @@ in organization pages should be customizable from the 'resources', 'sections' an
 **[Improve storytellers/profile pages] (items/storytellers.md)** - We should enable links and media ribbon options for users.
 And also should redo the whole profile/storyteller editing flow, as it's confusing.
 
-Embed on more platforms
+**[Embed on more platforms] (items/embed.md)** - Get the tech and whitelists in place so MapStory embeds can go on
+more platforms.
 
 **[Warper integration] (items/warper.md)** - A more seamless workflow to upload scanned map and warp it and add to a StoryLayer.
 
@@ -62,19 +65,18 @@ open icons. And hook it in to the MapStory platform, so users can select from a 
 **[Social Login] (items/social-login.md)** Be able to login to mapstory with facebook and google, and grab the relevant 
 picture, name and email.
 
-CSW + permissioning infrastructure (GN 2.0 upgrade)
+**[CSW + permissioning infrastructure (GN 2.0 upgrade)] (items/geonode2.md)** - Incorporate pycsw and the richer
+permissioning infrastructure from GeoNode 2.0, once it gets stable.
 
-Client side time rendering investigations
+**[New Time Control Experimentation and Implementation] (items/time-new.md)** - Continue on with investigations and
+move towards experimentation and implementation
 
-StoryTelling iterations
- - new styling
- - new timeline editing
- - improved annotations
- - client side rendering/playback investigation
+**[Storytelling refresh] (items/composer-new.md)** - Consider new technologies and new approaches for the story telling 
+functionality in map composer functionality (styling, annotations and editing). Possibly split up 
+functionality for easier migration.
 
-Location Guided MapStories (XYT frames)
-
-Social login
+**[Location Guided MapStories (XYT frames)] (items/guided-stories.md)** - Add the ability for the story teller to 
+guide the user, with the map updating zoom level and location for their narrative.
 
 ### Long Term (9 months to 18 months - funding dependent)
 
@@ -107,7 +109,6 @@ Integrated Map Collaboration tools
  - chat
  - wiki
  - issue tracker
- - 
  
 Find near, at feature level, in space and time.
 
@@ -119,7 +120,7 @@ Social network mapping
 
 Analysis and web processing
 
-
+Animated Sharing - video and animated gif outpus
 
 Organization
 
