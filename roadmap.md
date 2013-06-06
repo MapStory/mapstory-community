@@ -125,14 +125,10 @@ Analysis and web processing
 
 Animated Sharing - video and animated gif outpus
 
-Organization
 
- monthly milestones, correspond to releases
- each topic has a page
-  - description
-  - optional wireframes
-  - issues, links to relevant issues
-  - tag
+### Completed
 
+Items that have been fully deployed to production
 
+(non yet, just started this roadmap)
 
