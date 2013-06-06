@@ -80,6 +80,8 @@ guide the user, with the map updating zoom level and location for their narrativ
 
 ### Long Term (9 months to 18 months - funding dependent)
 
+TODO: bring in any old designs from Steven and stuff on the wiki.
+
 Great styling
 
 Table joining
