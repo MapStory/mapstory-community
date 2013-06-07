@@ -58,3 +58,11 @@ https://github.com/MapStory/mapstory/wiki/Proposed-Playback-Options has some int
 Cartodb is planning to release a standard for a format that powers their torque time library. If it's any good
 and reusable could be interesting to look in to implementing that in GeoServer. We could potentially then playback
 from CartoDB maps.
+
+One thing we should investigate is using Cesium's time slider directly. Like we could just make advanced
+time sliding webgl only, use the czml output from geoserver (see https://github.com/AnalyticalGraphicsInc/geoserver/tree/czmlOutput)
+and then have the client display that. They already did a demo showing ames data, which looks compelling:
+http://dl.dropboxusercontent.com/u/30019282/cesium-mapstory.mp4
+
+We could probably get away with webgl only for advanced time slider. Just need a way to degrade nicely, using
+openlayers (could be 2.x if the time stuff is a pain, or 3.x if it's working well).
