@@ -31,3 +31,10 @@ Ian, with Justin helping out on the GeoServer side.
 
 ### Issues
 
+https://github.com/MapStory/mapstory/issues/751
+https://github.com/MapStory/mapstory/issues/752
+https://github.com/MapStory/mapstory/issues/753
+https://github.com/MapStory/mapstory/issues/754
+https://github.com/MapStory/mapstory/issues/755
+https://github.com/MapStory/mapstory/issues/756
+https://github.com/MapStory/mapstory/issues/757
