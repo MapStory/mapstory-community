@@ -10,9 +10,21 @@ The new uploader should needs to support the addition of a raster to a mosiac, a
 much better client side validation. It will need lots of testing to ensure it handles all the old
 uploader did, but the new one should provide a foundation to build up a much more robust solution.
 
+A 'nice to have' would be to do a similar thing with vector data, let people 'append' a set of data to
+an existing storylayer dataset. Should hopefully be similar UI, and our vector stores do already support
+that.
+
 ### Tech plan
 To do this we need to upgrade to GeoServer 2.3.x. This involves porting time components to GeoTools 9.x, and
 getting the mapstory security module working properly. And then testing to make sure there are no regressions.
+
+### Wireframes
+Some design questions:
+
+Where do people 'add' data to an existing StoryLayer? On the storylayer, like a tab there? In the uploader,
+like a step that asks them if they want to create new or add to existing? Both?
+
+
 
 ### People
 Ian, with Justin helping out on the GeoServer side.
