@@ -14,5 +14,5 @@ Some client side improvements will also help, to inform users earlier on when so
 Ian, and testers
 
 ### Issues
-https://github.com/MapStory/mapstory/issues/700
-https://github.com/MapStory/mapstory/issues/723
+* https://github.com/MapStory/mapstory/issues/700
+* https://github.com/MapStory/mapstory/issues/723
