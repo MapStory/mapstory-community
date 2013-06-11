@@ -73,6 +73,9 @@ permissioning infrastructure from GeoNode 2.0, once it gets stable.
 move towards experimentation and implementation. Be sure to incorporate [playback settings](items/playback-settings.md)
 work.
 
+**[Playback settings[ (items/playback-settings.md)** - Relating to the time control is some good design work
+from the past focusing in on the settings for playback.
+
 **[Storytelling refresh] (items/composer-new.md)** - Consider new technologies and new approaches for the story telling 
 functionality in map composer functionality (styling, annotations and editing). Possibly split up 
 functionality for easier migration.
