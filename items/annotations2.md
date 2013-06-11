@@ -21,12 +21,12 @@ To address:
 
 **Example (draft -- wireframe only)**
 
-![small map](items/timeline-small-map-v2b.png)
+![small map](images/timeline-small-map-v2b.png)
 
 
 **Example - Viewing Full Note Text (draft -- wireframe only)**
 
-![small map](items/timeline-small-map-view-item.png)
+![small map](images/timeline-small-map-view-item.png)
 
 **Summary - Changes to Small Map View**
 
@@ -57,8 +57,24 @@ To address:
  * A time point may have many time line items, resulting in a large list of items.
  * Current implementation: on map 89, there are timeline events in the year 1953, but I can’t select that year directly.  Guessing this is because 1953 didn’t have any data for the original dataset.  However, users would expect to be able to select that point in time directly because there are timeline items there.
    - See “Longer Term Improvements” below for more
+   
+**Logic**
 
-TABLE GOES HERE
+
+|GIVEN|WHEN|THEN|
+|-----|----|----|
+There are multiple timeline items at the current time point|the user views the items|the user sees all timeline items for the current time point
+“|“|the items are ordered by how close the item is to the current time point (with more recent items first)
+“|“|for items that are ranged, the order is based on the start date of the item|
+There is a timeline item that starts at the current time point|the user views that item|the user sees the timeline item’s title, time period, and note (if applicable)
+There is a timeline item that encompasses the current time point but does not start on the current time point|the user views that item|the users sees the timeline item’s title, time period, and link to see the note (if appicable)
+A timeline item’s note is more than ### characters long|the user views that item|the note is truncated at ### characters, sees a “ …” at the end of the note, and sees a link to view the full note below the truncated note
+A timeline item does not have a note|the user views that item|the user never sees a truncated note or a link to view the full note
+The user has clicked a link to view the full note text of an item|the user is viewing the note|the annotations are temporarily hidden on the map, a modal window appears with the item’s title, time period, and note text, there is a button to close the modal window, behind the window, the contents of the map darken (see mockup)
+The user is viewing the full text of the note|the user clicks the close link or clicks outside of the modal window within the map area|the modal window closes, the map returns to its previous appearance, the annotations re-appear
+
+
+
 
 
 **Small Improvements** 
@@ -91,7 +107,7 @@ TABLE GOES HERE
 
 **Wireframe (Draft)**
 
-![annotation display](at-display.png)
+![annotation display](images/at-display.png)
 
 **Summary of Changes**
  * Change timeline so that:
