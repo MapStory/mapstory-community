@@ -132,7 +132,7 @@ for their layers and maps.
 **[Find near in space and time](items/find-near.md)** - At a feature level people should be able to find other
 data near where they are in the map, in both space and time. So search by feature, not just bounding box of data.
 
-**[Remove data streams](items/remote-data.md)** - Instead of requiring all data to be uploaded to MapStory it
+**[Remote data streams](items/remote-data.md)** - Instead of requiring all data to be uploaded to MapStory it
 would be good to let users add remote data. Things like WMS, GeoRSS, KML. Some of these will likely be 'live', like
 USGS earthquake maps, where we want them to stay up to date with latest.
 
