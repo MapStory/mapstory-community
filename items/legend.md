@@ -4,7 +4,7 @@ Rework the legend to not take up so much space and be more intuitive.
 
 ### Requirements and wireframes
 
-
+![legend-wireframe](images/revised-legend.png)
 
 
 ##### General
