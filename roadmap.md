@@ -115,11 +115,12 @@ experience on a mobile device should be.
 **[Integrated Versioned Editing](items/integrated-versioning.md)** - Following on our [versioning prototype](items/versioning-proto.md)
 work we want to expand that so every StoryLayer is automatically versioned and collaborative.
 
-**[Data tools at tools.mapstory.org](items/tools.org.md)** - Right now people have to do lots of data cleaning
-on their desktops. In time we should provide a full suite of data transformation and cleaning tools at 
-tools.mapstory.org
 
 ### Ideas (catch all)
+
+**[Data tools at tools.mapstory.org](items/tools.md)** - Right now people have to do lots of data cleaning
+on their desktops. In time we should provide a full suite of data transformation and cleaning tools at 
+tools.mapstory.org
 
 **[Integrated Wiki](items/integrated-wiki.md)** - Right now we use mediawiki. Would be cool to find a way so edits
 in the wiki are integrated with activity feeds on the MapStory site.
