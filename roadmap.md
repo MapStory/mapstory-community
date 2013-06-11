@@ -124,7 +124,6 @@ tools.mapstory.org
 
 **[Integrated Wiki](items/integrated-wiki.md)** - Right now we use mediawiki. Would be cool to find a way so edits
 in the wiki are integrated with activity feeds on the MapStory site.
- - lets us get activity feeds. https://github.com/benjaoming/django-wiki#readme looks interesting
 
 **[Integrated Map Collaboration tools](items/integrated-collab.md)** - People will likely want more tools to 
 work on MapStory with one another. Should investigate providing things like chat, wiki, issue trackers, etc.
