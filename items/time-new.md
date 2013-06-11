@@ -66,3 +66,5 @@ http://dl.dropboxusercontent.com/u/30019282/cesium-mapstory.mp4
 
 We could probably get away with webgl only for advanced time slider. Just need a way to degrade nicely, using
 openlayers (could be 2.x if the time stuff is a pain, or 3.x if it's working well).
+
+See also [Playback Settings](playback-settings.md) item.
