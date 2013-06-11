@@ -70,7 +70,8 @@ picture, name and email.
 permissioning infrastructure from GeoNode 2.0, once it gets stable.
 
 **[New Time Control Experimentation and Implementation] (items/time-new.md)** - Continue on with investigations and
-move towards experimentation and implementation
+move towards experimentation and implementation. Be sure to incorporate [playback settings](items/playback-settings.md)
+work.
 
 **[Storytelling refresh] (items/composer-new.md)** - Consider new technologies and new approaches for the story telling 
 functionality in map composer functionality (styling, annotations and editing). Possibly split up 
@@ -82,9 +83,12 @@ guide the user, with the map updating zoom level and location for their narrativ
 **[Messaging between users] (items/messaging.md)** - Users should be able to send feedback and messages to one another
 through the mapstory platform, without having to reveal their email addresses.
 
-### Long Term (9 months to 18 months - funding dependent)
+**[Legend Enhancements] (items/legend.md)** - Rework the legend to not take up so much space and be more intuitive.
 
-TODO: bring in any old designs from Steven and stuff on the wiki.
+**[Annotations Improvements Part 2] (items/annotations2.md)** - Rework annotations to learn from users and work
+on smaller maps well.
+
+### Long Term (9 months to 18 months - funding dependent)
 
 **[Styling Greatness](items/styling.md)** - Intuitive styling of maps is of key importance to MapStory's success. We 
 need to match the baseline of what others do through the web, and push the limits.
