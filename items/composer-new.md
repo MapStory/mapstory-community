@@ -29,4 +29,5 @@ are clear on what each offers and how we use it. But we should probably avoid do
 
 ### Wireframes
 
-
+Should be sure to also take into account [guided storytelling] (guided-stories.md), as that will be a key 
+feature.
