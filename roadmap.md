@@ -156,9 +156,12 @@ creating new stories as a result of analysis of other layers. May make sense to 
 single screenshot. We should investigate animated gif and video outputs for MapStory, as that can make social
 sharing communicate the motion inherent in the stories.
 
-**[Automate contributions from 3rd parties with widgets](items/widgets)** - We should explore ways to plant a simple
+**[Automate contributions from 3rd parties with widgets](items/widgets.md)** - We should explore ways to plant a simple
 'Add to MapStory' button on external sites that focus on spatial-temporal data collection. An example partner interested
 in something like this is historyit.com
+
+**[Define algorithms and values behind peer review tools](items/peer-review.md)** - We need to futher define the user experience
+of our peer review tools (star rating and flag error). Also explore other features for curating quality and signaling rigor.
 
 ### Completed
 
