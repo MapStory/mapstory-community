@@ -23,3 +23,7 @@ Rework the legend to not take up so much space and be more intuitive.
 * Convert to a dropdown
 * If there is a legend associated with base map, show in same style as StoryLayers
 * Show legend below the dropdown
+
+### Issues
+
+https://github.com/MapStory/mapstory/issues/425
