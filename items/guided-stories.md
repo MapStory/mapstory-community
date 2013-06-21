@@ -25,6 +25,8 @@ time.
 
 ### Tech plan/notes
 
+One idea is to store the center and zoom level in a special annotation.
+
 
 ### Wireframes
 Main question to answer is what is the composition interface? How do people set the location for the
@@ -37,3 +39,5 @@ Steven to start, to make designs
 
 
 ### Issues
+
+https://github.com/MapStory/mapstory/issues/187
