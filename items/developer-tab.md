@@ -43,3 +43,5 @@ Mostly a django person, potentially some geoserver person.
 
 ### Issues
 
+No main issue yet, but should tackle https://github.com/MapStory/mapstory/issues/766 as part of this. Download is
+related to this, though a bit different.
