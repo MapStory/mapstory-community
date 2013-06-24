@@ -47,7 +47,7 @@ To make sure we don't lose functionality this list is an attempt to list what th
 something half way, could keep old controls on composer and have new one work with it.
 
 ### Issues
-None yet
+Would be good to make sure we handle https://github.com/MapStory/mapstory/issues/328
 
 ### People
 Bart and Ivan, with support from Ian for server stuff.
