@@ -10,10 +10,6 @@ is made and priorities shift as we learn more from users.
 **[Raster and uploader improvements] (items/raster.md)** - Iterative improvements for raster handling and 
 uploading of data. (Ian)
 
-**[Buttonology] (items/buttonology.md)** - Moving of buttons and slimming of panels for more map real estate. (Bart)
-
-**[Organization pages] (items/org-pages.md)** - Pages for organizations to feature links and work in MapStory. (Done)
-
 **[User support and iterative improvements] (items/user-support.md)** - Constantly improve MapStory based on feedback
 from users.
 
@@ -167,5 +163,8 @@ of our peer review tools (star rating and flag error). Also explore other featur
 
 Items that have been fully deployed to production
 
-(non yet, just started this roadmap)
+**[Buttonology] (items/buttonology.md)** - Moving of buttons and slimming of panels for more map real estate. (Bart)
+
+**[Organization pages] (items/org-pages.md)** - Pages for organizations to feature links and work in MapStory. (Done)
+
 
