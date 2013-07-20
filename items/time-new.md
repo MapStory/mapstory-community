@@ -50,7 +50,7 @@ something half way, could keep old controls on composer and have new one work wi
 Would be good to make sure we handle https://github.com/MapStory/mapstory/issues/328
 
 ### People
-Bart and Ivan, with support from Ian for server stuff.
+Bart with support from Ian for server stuff.
 
 ### Notes
 https://github.com/MapStory/mapstory/wiki/Proposed-Playback-Options has some interesting thoughts.
