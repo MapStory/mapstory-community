@@ -21,8 +21,7 @@ from users.
 
 ### Short (1 month - 3 months)
 
-**[Search improvements] (items/search-new.md)** - Search in the map that feels/works more like the site's search. 
-Hopefully with some nice map-relevant improvements.
+**[Legend Enhancements] (items/legend.md)** - Rework the legend to not take up so much space and be more intuitive.
 
 **[New Time Control Investigation] (items/time-new.md)** - First investigation of a new time control that is more intuitive and
 responsive. Start with just the 'map' pages, not the full composer, just focused on playback. Depends on incorporating
@@ -42,13 +41,36 @@ MapStory layers in a sandbox area on tools.mapstory.org
 **[Admin control over 'resources for', 'sections', and 'topics' pages] (items/custom-pages.md)** - The same type of links and media ribbon
 in organization pages should be customizable from the 'resources', 'sections' and 'topics' pages.
 
+**[Annotations Improvements Part 2] (items/annotations2.md)** - Rework annotations to learn from users and work
+on smaller maps well.
+
 **[Improve storytellers/profile pages] (items/storytellers.md)** - We should enable links and media ribbon options for users.
 And also should redo the whole profile/storyteller editing flow, as it's confusing.
 
 **[Embed on more platforms] (items/embed.md)** - Get the tech and whitelists in place so MapStory embeds can go on
 more platforms.
 
+**[New Time Control Experimentation and Implementation] (items/time-new.md)** - Continue on with investigations and
+move towards experimentation and implementation. Be sure to incorporate [playback settings](items/playback-settings.md)
+work.
+
+**[Storytelling refresh] (items/composer-new.md)** - Consider new technologies and new approaches for the story telling 
+functionality in map composer functionality (styling, annotations and editing). Possibly split up 
+functionality for easier migration.
+
 **[Warper integration] (items/warper.md)** - A more seamless workflow to upload scanned map and warp it and add to a StoryLayer.
+
+**[Messaging between users] (items/messaging.md)** - Users should be able to send feedback and messages to one another
+through the mapstory platform, without having to reveal their email addresses.
+
+**[Developer Tab] (items/developer-tab.md)** - Add a section of the map/layer pages that lets developers know how
+they can programmatically access the map and its data, like with openlayers, google maps, wms, wfs, etc.
+
+**[Playback settings[ (items/playback-settings.md)** - Relating to the time control is some good design work
+from the past focusing in on the settings for playback.
+
+**[Location Guided MapStories (XYT frames)] (items/guided-stories.md)** - Add the ability for the story teller to 
+guide the user, with the map updating zoom level and location for their narrative.
 
 **[Iconcommons and better mapstory icons] (items/iconcommons.md)** - Create a sharing site for icons, for anyone to post 
 open icons. 
@@ -56,38 +78,15 @@ open icons.
 **[Better support for icons in styling] (items/icon-styling.md)** - Build the facility for our styler tools to refer
 to a remote set of icons. And make compatible with [Iconcommons](items/iconcommons.md).
 
-**[Developer Tab] (items/developer-tab.md)** - Add a section of the map/layer pages that lets developers know how
-they can programmatically access the map and its data, like with openlayers, google maps, wms, wfs, etc.
 
-**[CSW + permissioning infrastructure (GN 2.0 upgrade)] (items/geonode2.md)** - Incorporate pycsw and the richer
-permissioning infrastructure from GeoNode 2.0, once it gets stable.
-
-**[New Time Control Experimentation and Implementation] (items/time-new.md)** - Continue on with investigations and
-move towards experimentation and implementation. Be sure to incorporate [playback settings](items/playback-settings.md)
-work.
-
-**[Playback settings[ (items/playback-settings.md)** - Relating to the time control is some good design work
-from the past focusing in on the settings for playback.
-
-**[Storytelling refresh] (items/composer-new.md)** - Consider new technologies and new approaches for the story telling 
-functionality in map composer functionality (styling, annotations and editing). Possibly split up 
-functionality for easier migration.
-
-**[Location Guided MapStories (XYT frames)] (items/guided-stories.md)** - Add the ability for the story teller to 
-guide the user, with the map updating zoom level and location for their narrative.
-
-**[Messaging between users] (items/messaging.md)** - Users should be able to send feedback and messages to one another
-through the mapstory platform, without having to reveal their email addresses.
-
-**[Legend Enhancements] (items/legend.md)** - Rework the legend to not take up so much space and be more intuitive.
-
-**[Annotations Improvements Part 2] (items/annotations2.md)** - Rework annotations to learn from users and work
-on smaller maps well.
 
 ### Long Term (9 months to 18 months - funding dependent)
 
 **[Styling Greatness](items/styling.md)** - Intuitive styling of maps is of key importance to MapStory's success. We 
 need to match the baseline of what others do through the web, and push the limits.
+
+**[CSW + permissioning infrastructure (GN 2.0 upgrade)] (items/geonode2.md)** - Incorporate pycsw and the richer
+permissioning infrastructure from GeoNode 2.0, once it gets stable.
 
 **[Statistic upload and join existing geometries](items/table-join.md)** - We replicate lots of data needlessly, making
 users upload their own geometries when all they want to do is style based on some new statistics. We should be able
@@ -166,3 +165,6 @@ Items that have been fully deployed to production
 
 **[Raster and uploader improvements] (items/raster.md)** - Iterative improvements for raster handling and 
 uploading of data.
+
+**[Search improvements] (items/search-new.md)** - Search in the map that feels/works more like the site's search. 
+Hopefully with some nice map-relevant improvements.
