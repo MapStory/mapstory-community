@@ -66,7 +66,7 @@ through the mapstory platform, without having to reveal their email addresses.
 **[Developer Tab] (items/developer-tab.md)** - Add a section of the map/layer pages that lets developers know how
 they can programmatically access the map and its data, like with openlayers, google maps, wms, wfs, etc.
 
-**[Playback settings[ (items/playback-settings.md)** - Relating to the time control is some good design work
+**[Playback settings] (items/playback-settings.md)** - Relating to the time control is some good design work
 from the past focusing in on the settings for playback.
 
 **[Location Guided MapStories (XYT frames)] (items/guided-stories.md)** - Add the ability for the story teller to 
