@@ -21,8 +21,6 @@ from users.
 
 ### Short (1 month - 3 months)
 
-**[Legend Enhancements] (items/legend.md)** - Rework the legend to not take up so much space and be more intuitive.
-
 **[New Time Control Investigation] (items/time-new.md)** - First investigation of a new time control that is more intuitive and
 responsive. Start with just the 'map' pages, not the full composer, just focused on playback. Depends on incorporating
 OpenLayers 3.
@@ -40,6 +38,8 @@ MapStory layers in a sandbox area on tools.mapstory.org
 
 **[Admin control over 'resources for', 'sections', and 'topics' pages] (items/custom-pages.md)** - The same type of links and media ribbon
 in organization pages should be customizable from the 'resources', 'sections' and 'topics' pages.
+
+**[Legend Enhancements] (items/legend.md)** - Rework the legend to not take up so much space and be more intuitive.
 
 **[Annotations Improvements Part 2] (items/annotations2.md)** - Rework annotations to learn from users and work
 on smaller maps well.
