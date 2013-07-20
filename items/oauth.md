@@ -28,4 +28,7 @@ might investigate this as an option for other integrations as well.
 
 ### Issues
 https://github.com/MapStory/mapstory/issues/736
+
 https://github.com/MapStory/mapstory/issues/737
+
+https://github.com/MapStory/mapstory/issues/727
