@@ -170,4 +170,4 @@ Hopefully with some nice map-relevant improvements.
 
 **[Annotations improvements] (items/annotations.md)**- Bulk upload of annotations and a better editor
 
-**[Community Infrastructure} (items/community-infra.md)** Better tools for supporting the community, and to help the community support itself.
+**[Community Infrastructure] (items/community-infra.md)** Better tools for supporting the community, and to help the community support itself.
