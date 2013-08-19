@@ -5,7 +5,7 @@ is made and priorities shift as we learn more from users.
 
 ### Immediate (within 4 weeks)
 
-**[Annotations Improvements] (items/annotations.md)** - Bulk upload of annotations and a better editor. (Bart)
+
 
 **[New Uploader] (items/uploader.md)** - New infrastructure for more robust handling, with client side validation and 
 being able to add a raster to an existing storylayer. (Ian)
@@ -13,8 +13,7 @@ being able to add a raster to an existing storylayer. (Ian)
 **[Social Login] (items/social-login.md)** - Be able to login to mapstory with facebook and google, and grab the relevant 
 picture, name and email. (Marc)
 
-**[Community Infrastructure] (items/community-infra.md)** - Better tools and structures for supporting the community, 
-and to help the community support itself. (All work on at sprint)
+**[Annotations Hotfixes] (items/annotations-hotfixes.md) Basic tweaks to annotations improvements made in last milestone based on user feedback. (Bart)
 
 **[User support and iterative improvements] (items/user-support.md)** - Constantly improve MapStory based on feedback
 from users. 
@@ -168,3 +167,7 @@ uploading of data.
 
 **[Search improvements] (items/search-new.md)** - Search in the map that feels/works more like the site's search. 
 Hopefully with some nice map-relevant improvements.
+
+**[Annotations improvements] (items/annotations.md)**- Bulk upload of annotations and a better editor
+
+**[Community Infrastructure} (items/community-infra.md)** Better tools for supporting the community, and to help the community support itself.
