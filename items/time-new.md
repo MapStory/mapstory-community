@@ -43,6 +43,10 @@ To make sure we don't lose functionality this list is an attempt to list what th
  - prebuffering
  - aggressive time sliding - updating when moving slider
  - cumulative and normal playback.
+ - advance one frame at a time
+ - set 'desired time length' and have playback work backwards
+ - prepares for different zoom levels and XYT frames
+ - Allows for different 'pacing' variables (by decade, then by month for example)
  - Has a way to work with existing Map Composer. Could be a toolkit that integrates with ext.js/geoext, could do 
 something half way, could keep old controls on composer and have new one work with it.
 
