@@ -8,6 +8,8 @@ Our aim for this task is not annotations perfection, just to get them to a decen
 possible to upload annotations, to edit any existing annotation, ideally with some bulk editing options,
 and to add youtube and pictures.
 
+This will also cover hot fixes to the overall annotations improvements that were recently promoted.
+
 ### Spec / Requirements
 
 There are three main new requirements to support in addition to what is already working now on annotations
