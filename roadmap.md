@@ -13,7 +13,7 @@ being able to add a raster to an existing storylayer. (Ian)
 **[Social Login] (items/social-login.md)** - Be able to login to mapstory with facebook and google, and grab the relevant 
 picture, name and email. (Marc)
 
-**[Annotations Hotfixes] (items/annotations-hotfixes.md) Basic tweaks to annotations improvements made in last milestone based on user feedback. (Bart)
+**[Annotations Hotfixes] (items/annotations.md) Basic tweaks to annotations improvements made in last milestone based on user feedback. (Bart)
 
 **[User support and iterative improvements] (items/user-support.md)** - Constantly improve MapStory based on feedback
 from users. 
