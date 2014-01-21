@@ -20,9 +20,13 @@ OpenLayers 3.
 **[Scalability improvements] (items/scalability.md)** - Put a cluster of GeoServers behind MapStory, and upgrade to 
 Cloudfront caching.
 
+**[Annotations Improvements Part 2] (items/annotations2.md)** - Rework annotations based on new Composer redesign
+
 
 **[Versioning Prototype] (items/versioning-proto.md)** - Deployment of GeoGit with GeoNode to allow users to edit select
 MapStory layers in a sandbox area on tools.mapstory.org
+
+**[Storytelling refresh] (items/composer-new.md)** - Implement Composer redesign for enhanced Storytelling.
 
 ### Medium (3 month - 9 month)
 
@@ -30,9 +34,6 @@ MapStory layers in a sandbox area on tools.mapstory.org
 in organization pages should be customizable from the 'resources', 'sections' and 'topics' pages.
 
 **[Legend Enhancements] (items/legend.md)** - Rework the legend to not take up so much space and be more intuitive.
-
-**[Annotations Improvements Part 2] (items/annotations2.md)** - Rework annotations to learn from users and work
-on smaller maps well.
 
 **[Improve storytellers/profile pages] (items/storytellers.md)** - We should enable links and media ribbon options for users.
 And also should redo the whole profile/storyteller editing flow, as it's confusing.
@@ -44,9 +45,6 @@ more platforms.
 move towards experimentation and implementation. Be sure to incorporate [playback settings](items/playback-settings.md)
 work.
 
-**[Storytelling refresh] (items/composer-new.md)** - Consider new technologies and new approaches for the story telling 
-functionality in map composer functionality (styling, annotations and editing). Possibly split up 
-functionality for easier migration.
 
 **[Warper integration] (items/warper.md)** - A more seamless workflow to upload scanned map and warp it and add to a StoryLayer.
 
