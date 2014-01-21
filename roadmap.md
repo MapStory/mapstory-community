@@ -5,20 +5,13 @@ is made and priorities shift as we learn more from users.
 
 ### Immediate (within 4 weeks)
 
+Complete.
 
 
-**[New Uploader] (items/uploader.md)** - New infrastructure for more robust handling, with client side validation and 
-being able to add a raster to an existing storylayer. (Ian)
-
-**[Social Login] (items/social-login.md)** - Be able to login to mapstory with facebook and google, and grab the relevant 
-picture, name and email. (Marc)
-
-**[Annotations Hotfixes] (items/annotations.md)** Basic tweaks to annotations improvements made in last milestone based on user feedback. (Bart)
-
-**[User support and iterative improvements] (items/user-support.md)** - Constantly improve MapStory based on feedback
-from users. 
 
 ### Short (1 month - 3 months)
+
+**[Redesigned Organization pages] (items/org-pages.md)** - Pages for organizations to feature links and work in MapStory. 
 
 **[New Time Control Investigation] (items/time-new.md)** - First investigation of a new time control that is more intuitive and
 responsive. Start with just the 'map' pages, not the full composer, just focused on playback. Depends on incorporating
@@ -160,8 +153,6 @@ Items that have been fully deployed to production
 
 **[Buttonology] (items/buttonology.md)** - Moving of buttons and slimming of panels for more map real estate. 
 
-**[Organization pages] (items/org-pages.md)** - Pages for organizations to feature links and work in MapStory. 
-
 **[Raster and uploader improvements] (items/raster.md)** - Iterative improvements for raster handling and 
 uploading of data.
 
@@ -171,3 +162,14 @@ Hopefully with some nice map-relevant improvements.
 **[Annotations improvements] (items/annotations.md)**- Bulk upload of annotations and a better editor
 
 **[Community Infrastructure] (items/community-infra.md)** Better tools for supporting the community, and to help the community support itself.
+
+**[New Uploader] (items/uploader.md)** - New infrastructure for more robust handling, with client side validation and 
+being able to add a raster to an existing storylayer. (Ian)
+
+**[Social Login] (items/social-login.md)** - Be able to login to mapstory with facebook and google, and grab the relevant 
+picture, name and email. (Marc)
+
+**[Annotations Hotfixes] (items/annotations.md)** Basic tweaks to annotations improvements made in last milestone based on user feedback. (Bart)
+
+**[User support and iterative improvements] (items/user-support.md)** - Constantly improve MapStory based on feedback
+from users. 
