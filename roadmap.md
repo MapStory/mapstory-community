@@ -1,6 +1,6 @@
 ## Introduction
 
-This document contains the current state of the MapStory roadmap. It will be dynamic as progress
+This document contains the current state of the MapStory roadmap, beginning from January 2014. It will be dynamic as progress
 is made and priorities shift as we learn more from users. 
 
 ### Immediate (within 4 weeks)
