@@ -20,8 +20,6 @@ OpenLayers 3.
 **[Scalability improvements] (items/scalability.md)** - Put a cluster of GeoServers behind MapStory, and upgrade to 
 Cloudfront caching.
 
-**[OAuth integration with warper and wiki] (items/oauth.md)** - Enable MapStory login to work on 
-http://warper.mapstory.org and http://wiki.mapstory.org
 
 **[Versioning Prototype] (items/versioning-proto.md)** - Deployment of GeoGit with GeoNode to allow users to edit select
 MapStory layers in a sandbox area on tools.mapstory.org
@@ -150,6 +148,9 @@ of our peer review tools (star rating and flag error). Also explore other featur
 ### Completed
 
 Items that have been fully deployed to production
+
+**[OAuth integration with warper and wiki] (items/oauth.md)** - Enable MapStory login to work on 
+http://warper.mapstory.org and http://wiki.mapstory.org
 
 **[Buttonology] (items/buttonology.md)** - Moving of buttons and slimming of panels for more map real estate. 
 
