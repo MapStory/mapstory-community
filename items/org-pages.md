@@ -1,8 +1,6 @@
 ## Organization Pages
 
-Organizations should be able to customize a presence on MapStory, similar how one can on MeetUp. Key features
-are a media ribbon, links, banner and essay.
-
+Organizations should be able to customize a presence on MapStory, similar how one can on MeetUp. 
 ### Requirements
 
 Just need admin control for now, so does not need to look pretty. All the basics are done at
