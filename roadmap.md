@@ -40,7 +40,7 @@ from the past focusing in on the settings for playback.
 **[Internationalization](items/i18n.md)** - MapStory should be available to people regardless of what language they
 speak. As a user, I want to make sure the site is all internationalized and start a crowd sourced localization effort.
 
-**[Community Initiatives] (items/community-infra.md)** Better tools for supporting the community, and to help the community support itself.
+**[Community Initiatives] (items/community-infra.md)** As a user, I need to be able to lead or participate in a Community Initiative. A Community Initiative is a data collection effort on a theme that encourages users to build out massive layers on the same schema. For example, “MapStory Local” will be a set of massive layers that represent of all of human settlement over time, with similar layers and features as one would see in Openstreetmap or Google Maps.
 
 ### Long Term (6 months to 12 months - funding dependent)
 
