@@ -6,6 +6,16 @@ select MapStory layers under versioning. This will let the MapStory community gi
 the new technology. Once that is solid we will figure out how to incorporate the technology in to all
 of MapStory.
 
+### User Stories
+
+As a user, I need to add, edit or delete features on any layer that has settings open for community editing.
+
+As a user, I need to be able to scrum the timeline back and forth on a layer rapidly, so that I can gain a quick sense of the data included in that layer
+
+As a user, I need to be able to edit metadata of other users’ StoryLayers, so I can make it more complete and accurate.
+
+As a user, I need to be able to add new attributes to StoryLayers that I own after the point of upload. 
+
 ### Requirements
 
 Most all this work is being done by the ROGUE team, so they are driving many of the requirements.
