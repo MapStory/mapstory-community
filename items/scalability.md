@@ -5,24 +5,40 @@ more servers as resources get maxed out.
 
 ### User Stories
 (StoryScapes)
--[]Set up Redmine 
+Set up Redmine 
+
 Code in GitLab
+
 Building in Jenkins
+
 About.yml (in project) compliant with 18F standard 
+
 “Sidecar” GitLab project for additional .yml files to support automated security artifact generation
+
 Jenkins build tied in with:
+
 SonarQube
+
 HP Fortify (maybe findbugs in the future)
+
 OWASP ZAP
+
 Ion Channel
+
 Nessus/OpenScap  
+
 All critical & high issues addressed for above
+
 Manual research for vulnerabilities (especially for code not covered by scanning suite)
+
 Remediation identified for any vulnerabilities  
+
 GEOAXiS  Integration (once inside UC) 
 
 (MapStory)
+
 As a user, I need to have complete test coverage for mapstory.org platform to avoid regressions as we push new functionality
+
 As a user, I need to have a DevOps process that will enable us to manage a live mapstory.org with users (i.e. triage of user issues, scrum governance, etc)
 
 
