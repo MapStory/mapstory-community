@@ -1,13 +1,11 @@
 ## Introduction
 
-This document contains the current state of the MapStory roadmap, beginning from January 2014. It will be dynamic as progress
+This document contains the current state of the MapStory roadmap, beginning from November 1, 2016. It will be dynamic as progress
 is made and priorities shift as we learn more from users. 
 
 ### Immediate (within 4 weeks)
 
-Complete.
-
-
+**[Scalability improvements] (items/scalability.md)** - As a user, I need confidence that MapStory.org has test coverage and a DevOps pipeline that will ensure the platform does not regress and can support wide scale public use.
 
 ### Short (1 month - 3 months)
 
@@ -17,8 +15,7 @@ Complete.
 responsive. Start with just the 'map' pages, not the full composer, just focused on playback. Depends on incorporating
 OpenLayers 3.
 
-**[Scalability improvements] (items/scalability.md)** - Put a cluster of GeoServers behind MapStory, and upgrade to 
-Cloudfront caching.
+
 
 **[Annotations Improvements Part 2] (items/annotations2.md)** - Rework annotations based on new Composer redesign
 
