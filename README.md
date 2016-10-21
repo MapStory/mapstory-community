@@ -33,19 +33,11 @@ items from one time frame to another needs to meet some minimum requirements:
 
 Any item listed in [immediate term](https://github.com/MapStory/mapstory-roadmap/blob/master/roadmap.md#immediate-within-4-weeks) 
 should have an 'owner' a developer who is working on it, and who expects to finish and deploy to 
-production within 4 weeks. This should be placed directly on the main roadmap document. 
+production within 2 months. This should be placed directly on the main roadmap document. 
 
 Anything in immediate term should also have a 'label' in the issue tracker for it. This tracks all the
 bugs and iterations of testing against the topic. The roadmap item should have a link to that label in
 its 'issues' section.
-
-##### Short Term
-
-Any item list in [short term](https://github.com/MapStory/mapstory-roadmap/blob/master/roadmap.md#short-1-month---3-months)
-should have the people section filled out with who is scheduled to work on it. It should have a complete
-set of requirements, and also any relevant wireframes. Wireframes may evolve with testing, but if an 
-item needs wireframes it should have them by the time it gets to short term. It should also have a
-technology plan of how it will be built - at least some technical thinking should go in to it.
 
 ##### Medium Term
 
