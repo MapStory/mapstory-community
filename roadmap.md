@@ -6,7 +6,7 @@ This document states the active Epics for MapStory.org, beginning from November 
 
 **[Scalability improvements] (items/scalability.md)** - As a user, I need confidence that MapStory.org has test coverage and a DevOps pipeline that will ensure the platform does not regress and can support wide scale public use.
 
-**[Login and account creation] (items/oauth.md)** - Enable MapStory login to work on http://warper.mapstory.org and http://wiki.mapstory.org
+**[Login and account creation] (items/oauth.md)** - As a user, I need to enable MapStory login to work on mapstory.org, http://warper.mapstory.org and http://wiki.mapstory.org
 
 **[Styling](items/styling.md)** - As a user, I need to be able to style layers I use in my story so that my story conveys meaning in the way I envision.
 
