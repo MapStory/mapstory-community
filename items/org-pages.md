@@ -1,6 +1,11 @@
 ## Organization Pages
 
 Organizations should be able to customize a presence on MapStory, similar how one can on MeetUp. 
+
+### User Stories
+
+As a user, I need to be able to “own” and manage an Organization Page that is represented in the storyteller search and sits at a customized URL (i.e. mapstory.org/OrganizationName)
+
 ### Requirements
 
 Just need admin control for now, so does not need to look pretty. All the basics are done at
