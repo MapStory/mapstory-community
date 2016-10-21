@@ -21,12 +21,12 @@ This document states the active Epics for MapStory.org, beginning from November 
 **[Playback settings] (items/playback-settings.md)** - Relating to the time control is some good design work
 from the past focusing in on the settings for playback.
 
-**[Search improvements] (items/search.md)** - As a user, I need to search in the map that feels/works more like the site's search. 
-Hopefully with some nice map-relevant improvements.
-
 **[Raster and uploader improvements] (items/raster.md)** - As a user, I need to import data as raster - single image or temporal sequence.
 
 ### Medium (Within 5 months - March 30th, 2017)
+
+**[Search improvements] (items/search.md)** - As a user, I need to search in the map that feels/works more like the site's search. 
+Hopefully with some nice map-relevant improvements.
 
 **[Organization pages] (items/org-pages.md)** - As a user, I need to manage an Organization Page, which enables me to pool all the storytellers, storylayers and mapstories that represent a group.
 
