@@ -40,6 +40,8 @@ from the past focusing in on the settings for playback.
 **[Internationalization](items/i18n.md)** - MapStory should be available to people regardless of what language they
 speak. As a user, I want to make sure the site is all internationalized and start a crowd sourced localization effort.
 
+**[Community Initiatives] (items/community-infra.md)** Better tools for supporting the community, and to help the community support itself.
+
 ### Long Term (6 months to 12 months - funding dependent)
 
 **[Developer Tab] (items/developer-tab.md)** - Add a section of the map/layer pages that lets developers know how
@@ -122,8 +124,6 @@ uploading of data.
 Hopefully with some nice map-relevant improvements.
 
 **[Annotations improvements] (items/annotations.md)**- Bulk upload of annotations and a better editor
-
-**[Community Infrastructure] (items/community-infra.md)** Better tools for supporting the community, and to help the community support itself.
 
 **[New Uploader] (items/uploader.md)** - New infrastructure for more robust handling, with client side validation and 
 being able to add a raster to an existing storylayer. (Ian)
