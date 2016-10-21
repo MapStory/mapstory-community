@@ -2,22 +2,18 @@
 
 This document states the active Epics for MapStory.org, beginning from November 1, 2016. User Stories related to these Epics are tracked for progress with issue tickets. This Roadmap will be dynamic as progress is made and priorities shift as we learn more from users.
 
-### Immediate (within 4 weeks)
+### Immediate (within 2 months - December 31, 2016)
 
 **[Scalability improvements] (items/scalability.md)** - As a user, I need confidence that MapStory.org has test coverage and a DevOps pipeline that will ensure the platform does not regress and can support wide scale public use.
 
-**[Login and account creation] (items/oauth.md)** - Enable MapStory login to work on 
-http://warper.mapstory.org and http://wiki.mapstory.org
+**[Login and account creation] (items/oauth.md)** - Enable MapStory login to work on http://warper.mapstory.org and http://wiki.mapstory.org
 
-### Short (1 month - 3 months)
-
-**[Organization pages] (items/org-pages.md)** - As a user, I need to manage an Organization Page, which enables me to pool all the storytellers, storylayers and mapstories that represent a group.
-
-**[Time Controls] (items/time-new.md)** - As a user, I need time controls on layers and stories that are intuitive, fast and honor the time information in my layers.
-
-**[StoryPin Improvements] (items/annotations2.md)** - As a user, I need to be able to quickly and intuitively create StoryPin annotations that help me explain activity on the map that is not part of the data in my storylayers.
+**[Styling](items/styling.md)** - As a user, I need to be able to style layers I use in my story so that my story conveys meaning in the way I envision.
 
 **[Mass editing of change over time] (items/versioning-proto.md)** - As a user, I need to be able participate in community versioned editing of the spatial, temporal and attribute information on features in any StoryLayer that is open for community editing.
+
+**[Scale Versioned Editing](items/integrated-versioning.md)** - Following on our [versioning prototype](items/versioning-proto.md)
+work we want to expand that so every StoryLayer is automatically versioned and collaborative.
 
 **[Story composing] (items/composer-new.md)** - As a user, I need to be able to compose and publish my mapstory, and have it playback for viewers as I expected it to behave when I composed it.
 
@@ -28,61 +24,41 @@ http://warper.mapstory.org and http://wiki.mapstory.org
 **[Playback settings] (items/playback-settings.md)** - Relating to the time control is some good design work
 from the past focusing in on the settings for playback.
 
-### Medium (3 month - 6 month)
+### Medium (Within 5 months - March 30th, 2017)
 
-**[Embed on more platforms] (items/embed.md)** - Get the tech and whitelists in place so MapStory embeds can go on
-more platforms.
+**[Organization pages] (items/org-pages.md)** - As a user, I need to manage an Organization Page, which enables me to pool all the storytellers, storylayers and mapstories that represent a group.
+
+**[Time Controls] (items/time-new.md)** - As a user, I need time controls on layers and stories that are intuitive, fast and honor the time information in my layers.
+
+**[StoryPin Improvements] (items/annotations2.md)** - As a user, I need to be able to quickly and intuitively create StoryPin annotations that help me explain activity on the map that is not part of the data in my storylayers.
 
 **[Warper integration] (items/warper.md)** - As a user, I need a map warper that is integrated with the mapstory importer.
+
+**[Mobile](items/mobile.md)** - As a user, I need to be able to conduct operations on the platform that make sense given the device I am using (desktop, tablet, mobile).
+
+**[Statistic upload and join existing geometries](items/table-join.md)** - As a user, I want to upload statistics and join that to sets of geometries maintained on MapStory.
+
+**[Longitudinal Gazetteer](items/longitudinal-gazetteer.md)** - As a user, I want to link Place Names across data layers to support enhanced search, editing and storytelling
+
+### Long Term (6 months to 12 months - funding dependent)
 
 **[Developer Tab] (items/developer-tab.md)** - Add a section of the map/layer pages that lets developers know how
 they can programmatically access the map and its data, like with openlayers, google maps, wms, wfs, etc.
 
-**[Location Guided MapStories (XYT frames)] (items/guided-stories.md)** - Add the ability for the story teller to 
-guide the user, with the map updating zoom level and location for their narrative.
-
-**[Better support for icons in styling] (items/icon-styling.md)** - Build the facility for our styler tools to refer
-to a remote set of icons. And make compatible with [Iconcommons](items/iconcommons.md).
-
-
-
-### Long Term (9 months to 18 months - funding dependent)
-
-**[Iconcommons and better mapstory icons] (items/iconcommons.md)** - Create a sharing site for icons, for anyone to post 
-open icons. 
-
-**[Styling Greatness](items/styling.md)** - Intuitive styling of maps is of key importance to MapStory's success. We 
-need to match the baseline of what others do through the web, and push the limits.
+**[Embed on more platforms] (items/embed.md)** - Get the tech and whitelists in place so MapStory embeds can go on
+more platforms.
 
 **[CSW + permissioning infrastructure (GN 2.0 upgrade)] (items/geonode2.md)** - Incorporate pycsw and the richer
 permissioning infrastructure from GeoNode 2.0, once it gets stable.
 
-**[Statistic upload and join existing geometries](items/table-join.md)** - We replicate lots of data needlessly, making
-users upload their own geometries when all they want to do is style based on some new statistics. We should be able
-to let them just upload statistics and join that to sets of geometries maintained on MapStory.
-
 **[Lat/long maps instead of Web Mercator] (items/latlong-maps.md)** - The web mercator projection is overused, distorts data, and
-does not actually fit the aspect ratios of most computers well. Let's serve up MapStory in lat/long (4326).
-
-**[Audio in mapstories] (items/audio.md)** - Many online proto-MapStories support audio in various ways. We should 
-give storytellers options for incorporating audio in to their stories.
+does not actually fit the aspect ratios of most computers well. As a user, I want to serve up MapStory in lat/long (4326).
 
 **[Internationalization](items/i18n.md)** - MapStory should be available to people regardless of what language they
-speak. We should make sure the site is all internationalized and start a crowd sourced localization effort.
-
-**[Better permissioning](items/permissioning.md)** - Right now MapStories and StoryLayers are not very collaborative,
-you can't invite someone else to edit data or a story with you. Should bring in better permissioning to enable that,
-and to also investigate techniques to get high quality metadata.
+speak. As a user, I want to make sure the site is all internationalized and start a crowd sourced localization effort.
 
 **[3D MapStories](items/3d.md)** - There are several cool WebGL toolkits that may let us view MapStories not just in
-2D but in 3D, over time. We should incorporate these.
-
-**[Mobile](items/mobile.md)** - Mobile devices are the platform of the future. We need to determine what the MapStory
-experience on a mobile device should be.
-
-**[Integrated Versioned Editing](items/integrated-versioning.md)** - Following on our [versioning prototype](items/versioning-proto.md)
-work we want to expand that so every StoryLayer is automatically versioned and collaborative.
-
+2D but in 3D, over time. As a user, I want to incorporate these.
 
 ### Ideas (catch all)
 
@@ -104,9 +80,6 @@ data near where they are in the map, in both space and time. So search by featur
 would be good to let users add remote data. Things like WMS, GeoRSS, KML. Some of these will likely be 'live', like
 USGS earthquake maps, where we want them to stay up to date with latest.
 
-**[Longitudinal Gazetteer](items/longitudinal-gazetteer.md)** - Provide a gazetteer that is accurate with names that
-evolve over time.
-
 **[Social network mapping](items/social-network-maps.md)** - Lots of data is being produced about relationships over
 geography and time. MapStory should be able to render these and let users make stories with the data.
 
@@ -127,6 +100,18 @@ of our peer review tools (star rating and flag error). Also explore other featur
 ### Completed
 
 Items that have been fully deployed to production
+
+**[Audio in mapstories] (items/audio.md)** - Many online proto-MapStories support audio in various ways. We should 
+give storytellers options for incorporating audio in to their stories.
+
+**[Better support for icons in styling] (items/icon-styling.md)** - Build the facility for our styler tools to refer
+to a remote set of icons. And make compatible with [Iconcommons](items/iconcommons.md).
+
+**[Location Guided MapStories (XYT frames)] (items/guided-stories.md)** - Add the ability for the story teller to 
+guide the user, with the map updating zoom level and location for their narrative.
+
+**[Iconcommons and better mapstory icons] (items/iconcommons.md)** - Create a sharing site for icons, for anyone to post 
+open icons. 
 
 **[Messaging between users] (items/messaging.md)** - Users should be able to send feedback and messages to one another
 through the mapstory platform, without having to reveal their email addresses.
