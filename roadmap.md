@@ -40,6 +40,9 @@ from the past focusing in on the settings for playback.
 
 **[Longitudinal Gazetteer](items/longitudinal-gazetteer.md)** - As a user, I want to link Place Names across data layers to support enhanced search, editing and storytelling
 
+**[Internationalization](items/i18n.md)** - MapStory should be available to people regardless of what language they
+speak. As a user, I want to make sure the site is all internationalized and start a crowd sourced localization effort.
+
 ### Long Term (6 months to 12 months - funding dependent)
 
 **[Developer Tab] (items/developer-tab.md)** - Add a section of the map/layer pages that lets developers know how
@@ -53,9 +56,6 @@ permissioning infrastructure from GeoNode 2.0, once it gets stable.
 
 **[Lat/long maps instead of Web Mercator] (items/latlong-maps.md)** - The web mercator projection is overused, distorts data, and
 does not actually fit the aspect ratios of most computers well. As a user, I want to serve up MapStory in lat/long (4326).
-
-**[Internationalization](items/i18n.md)** - MapStory should be available to people regardless of what language they
-speak. As a user, I want to make sure the site is all internationalized and start a crowd sourced localization effort.
 
 **[3D MapStories](items/3d.md)** - There are several cool WebGL toolkits that may let us view MapStories not just in
 2D but in 3D, over time. As a user, I want to incorporate these.
