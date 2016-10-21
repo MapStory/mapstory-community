@@ -3,6 +3,12 @@
 We should enable links and media ribbon options for users. And also should redo the whole profile/storyteller 
 editing flow, as it's confusing.
 
+### User Stories
+
+As a user, I need to be able control the order in which my published storylayers and mapstories appear on my public profile.
+
+As a user, I need to be able to “own” and manage an Organization Page that is represented in the storyteller search and sits at a customized URL (i.e. mapstory.org/OrganizationName)
+
 ### Requirements/spec
 
 First requirement is to enable links and media ribbon for users. 
