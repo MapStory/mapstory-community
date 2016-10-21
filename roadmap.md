@@ -1,64 +1,45 @@
 ## Introduction
 
-This document contains the current state of the MapStory roadmap, beginning from November 1, 2016. It will be dynamic as progress
-is made and priorities shift as we learn more from users. 
+This document states the active Epics for MapStory.org, beginning from November 1, 2016. User Stories related to these Epics are tracked for progress with issue tickets. This Roadmap will be dynamic as progress is made and priorities shift as we learn more from users.
 
 ### Immediate (within 4 weeks)
 
 **[Scalability improvements] (items/scalability.md)** - As a user, I need confidence that MapStory.org has test coverage and a DevOps pipeline that will ensure the platform does not regress and can support wide scale public use.
 
+**[Login and account creation] (items/oauth.md)** - Enable MapStory login to work on 
+http://warper.mapstory.org and http://wiki.mapstory.org
+
 ### Short (1 month - 3 months)
 
-**[Redesigned Organization pages] (items/org-pages.md)** - Pages for organizations to feature links and work in MapStory. 
+**[Organization pages] (items/org-pages.md)** - As a user, I need to manage an Organization Page, which enables me to pool all the storytellers, storylayers and mapstories that represent a group.
 
-**[New Time Control Investigation] (items/time-new.md)** - First investigation of a new time control that is more intuitive and
-responsive. Start with just the 'map' pages, not the full composer, just focused on playback. Depends on incorporating
-OpenLayers 3.
+**[Time Controls] (items/time-new.md)** - As a user, I need time controls on layers and stories that are intuitive, fast and honor the time information in my layers.
 
+**[StoryPin Improvements] (items/annotations2.md)** - As a user, I need to be able to quickly and intuitively create StoryPin annotations that help me explain activity on the map that is not part of the data in my storylayers.
 
+**[Mass editing of change over time] (items/versioning-proto.md)** - As a user, I need to be able participate in community versioned editing of the spatial, temporal and attribute information on features in any StoryLayer that is open for community editing.
 
-**[Annotations Improvements Part 2] (items/annotations2.md)** - Rework annotations based on new Composer redesign
+**[Story composing] (items/composer-new.md)** - As a user, I need to be able to compose and publish my mapstory, and have it playback for viewers as I expected it to behave when I composed it.
 
+**[Legend Enhancements] (items/legend.md)** - As a user, I need to be able to customize my legend in composer and have it appear the way I set it on a published story.
 
-**[Versioning Prototype] (items/versioning-proto.md)** - Deployment of GeoGit with GeoNode to allow users to edit select
-MapStory layers in a sandbox area on tools.mapstory.org
-
-**[Storytelling refresh] (items/composer-new.md)** - Implement Composer redesign for enhanced Storytelling.
-
-### Medium (3 month - 9 month)
-
-**[Admin control over 'resources for', 'sections', and 'topics' pages] (items/custom-pages.md)** - The same type of links and media ribbon
-in organization pages should be customizable from the 'resources', 'sections' and 'topics' pages.
-
-**[Legend Enhancements] (items/legend.md)** - Rework the legend to not take up so much space and be more intuitive.
-
-**[Improve storytellers/profile pages] (items/storytellers.md)** - We should enable links and media ribbon options for users.
-And also should redo the whole profile/storyteller editing flow, as it's confusing.
-
-**[Embed on more platforms] (items/embed.md)** - Get the tech and whitelists in place so MapStory embeds can go on
-more platforms.
-
-**[New Time Control Experimentation and Implementation] (items/time-new.md)** - Continue on with investigations and
-move towards experimentation and implementation. Be sure to incorporate [playback settings](items/playback-settings.md)
-work.
-
-
-**[Warper integration] (items/warper.md)** - A more seamless workflow to upload scanned map and warp it and add to a StoryLayer.
-
-**[Messaging between users] (items/messaging.md)** - Users should be able to send feedback and messages to one another
-through the mapstory platform, without having to reveal their email addresses.
-
-**[Developer Tab] (items/developer-tab.md)** - Add a section of the map/layer pages that lets developers know how
-they can programmatically access the map and its data, like with openlayers, google maps, wms, wfs, etc.
+**[Storyteller Profiles] (items/storytellers.md)** - As a user, I need to be able to manage the actions I take on the platform, and the way that my actions and personal identity are presented to the public.
 
 **[Playback settings] (items/playback-settings.md)** - Relating to the time control is some good design work
 from the past focusing in on the settings for playback.
 
+### Medium (3 month - 6 month)
+
+**[Embed on more platforms] (items/embed.md)** - Get the tech and whitelists in place so MapStory embeds can go on
+more platforms.
+
+**[Warper integration] (items/warper.md)** - As a user, I need a map warper that is integrated with the mapstory importer.
+
+**[Developer Tab] (items/developer-tab.md)** - Add a section of the map/layer pages that lets developers know how
+they can programmatically access the map and its data, like with openlayers, google maps, wms, wfs, etc.
+
 **[Location Guided MapStories (XYT frames)] (items/guided-stories.md)** - Add the ability for the story teller to 
 guide the user, with the map updating zoom level and location for their narrative.
-
-**[Iconcommons and better mapstory icons] (items/iconcommons.md)** - Create a sharing site for icons, for anyone to post 
-open icons. 
 
 **[Better support for icons in styling] (items/icon-styling.md)** - Build the facility for our styler tools to refer
 to a remote set of icons. And make compatible with [Iconcommons](items/iconcommons.md).
@@ -66,6 +47,9 @@ to a remote set of icons. And make compatible with [Iconcommons](items/iconcommo
 
 
 ### Long Term (9 months to 18 months - funding dependent)
+
+**[Iconcommons and better mapstory icons] (items/iconcommons.md)** - Create a sharing site for icons, for anyone to post 
+open icons. 
 
 **[Styling Greatness](items/styling.md)** - Intuitive styling of maps is of key importance to MapStory's success. We 
 need to match the baseline of what others do through the web, and push the limits.
@@ -144,8 +128,8 @@ of our peer review tools (star rating and flag error). Also explore other featur
 
 Items that have been fully deployed to production
 
-**[OAuth integration with warper and wiki] (items/oauth.md)** - Enable MapStory login to work on 
-http://warper.mapstory.org and http://wiki.mapstory.org
+**[Messaging between users] (items/messaging.md)** - Users should be able to send feedback and messages to one another
+through the mapstory platform, without having to reveal their email addresses.
 
 **[Buttonology] (items/buttonology.md)** - Moving of buttons and slimming of panels for more map real estate. 
 
