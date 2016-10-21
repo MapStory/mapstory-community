@@ -5,7 +5,7 @@ more servers as resources get maxed out.
 
 ### User Stories
 (StoryScapes)
-Set up Redmine 
+-[]Set up Redmine 
 Code in GitLab
 Building in Jenkins
 About.yml (in project) compliant with 18F standard 
