@@ -5,6 +5,12 @@ existing codebase is hard for our current developers to maintain, as we no longe
 author. It should be refactored to a nicer control, investigating new technologies like OpenLayers 3.0
 and new javascript toolkits. 
 
+### User Stories
+
+As a user, I need time controls that can be quickly scrubbed forwards and backwards
+
+As a user, I need time controls that can go back to geologic time scale
+
 ### Goal
 
 The first goal is 'investigation'. This is to design a more intuitive time control. And to come up with a 
