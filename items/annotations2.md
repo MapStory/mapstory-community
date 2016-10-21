@@ -9,6 +9,12 @@ good to do too.
 
 Learn from users, and get annotations working really well.
 
+### User Strories
+
+As a user, I want to make sure my StoryPins can extend back to the same geologic time scale as my layers. 	
+
+As a user, I need be able to define the time range for my StoryPins by clicking on the timeline, rather than selecting in a calendar box.
+
 ### Wireframes/design
 
 #### Timeline-Related UI Updates
