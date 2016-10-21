@@ -12,9 +12,6 @@ This document states the active Epics for MapStory.org, beginning from November 
 
 **[Mass editing of change over time] (items/versioning-proto.md)** - As a user, I need to be able participate in community versioned editing of the spatial, temporal and attribute information on features in any StoryLayer that is open for community editing.
 
-**[Scale Versioned Editing](items/integrated-versioning.md)** - Following on our [versioning prototype](items/versioning-proto.md)
-work we want to expand that so every StoryLayer is automatically versioned and collaborative.
-
 **[Story composing] (items/composer-new.md)** - As a user, I need to be able to compose and publish my mapstory, and have it playback for viewers as I expected it to behave when I composed it.
 
 **[Legend Enhancements] (items/legend.md)** - As a user, I need to be able to customize my legend in composer and have it appear the way I set it on a published story.
