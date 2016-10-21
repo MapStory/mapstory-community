@@ -26,16 +26,14 @@ management and developers.
 
 ### Maintaining the roadmap
 
-Every week or two the roadmap should be updated for at least immediate and short term categories. Moving
+Every two weeks the roadmap should be updated for at least immediate and short term categories. Moving
 items from one time frame to another needs to meet some minimum requirements:
 
 ##### Immediate Term
 
 Any item listed in [immediate term](https://github.com/MapStory/mapstory-roadmap/blob/master/roadmap.md#immediate-within-4-weeks) 
 should have an 'owner' a developer who is working on it, and who expects to finish and deploy to 
-production within 4 weeks. This should be placed directly on the main roadmap document. No one should 
-own more than one immediate term priority. They can also be working on some short term items, but
-the immediate one is their top priority.
+production within 4 weeks. This should be placed directly on the main roadmap document. 
 
 Anything in immediate term should also have a 'label' in the issue tracker for it. This tracks all the
 bugs and iterations of testing against the topic. The roadmap item should have a link to that label in
@@ -48,9 +46,6 @@ should have the people section filled out with who is scheduled to work on it. I
 set of requirements, and also any relevant wireframes. Wireframes may evolve with testing, but if an 
 item needs wireframes it should have them by the time it gets to short term. It should also have a
 technology plan of how it will be built - at least some technical thinking should go in to it.
-
-There should be no more than 2 short term items per active developer on the project, and they should
-be possible to finish in under a month each.
 
 ##### Medium Term
 
