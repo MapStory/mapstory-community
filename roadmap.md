@@ -1,6 +1,6 @@
 ## Introduction
 
-This document states the active Epics for MapStory.org, beginning from November 1, 2016. User Stories related to these Epics are tracked for progress with issue tickets. This Roadmap will be dynamic as progress is made and priorities shift as we learn more from users.
+This document states the active Epics and User Stories for MapStory.org, beginning from November 1, 2016. Technical tickets are developed out of these User Stories and managed in the public Github and private Jira scrum tools. This Roadmap will be dynamic as progress is made and priorities shift as we learn more from users.
 
 ### Immediate (within 2 months - December 31, 2016)
 
