@@ -1,8 +1,5 @@
 ## Improve storytellers/profile pages
 
-We should enable links and media ribbon options for users. And also should redo the whole profile/storyteller 
-editing flow, as it's confusing.
-
 ### User Stories
 
 As a user, I need to be able control the order in which my published storylayers and mapstories appear on my public profile.
