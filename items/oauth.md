@@ -5,7 +5,9 @@ likely come in the future (like osqa and geogit). One should be able to login to
 to login again at the warper or the wiki. Current thinking is this would be with OAuth, but other options
 are fine as well.
 
+### Critical question
 
+* How to represent real names vs unique identifier
 
 ### Requirements
 
