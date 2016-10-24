@@ -34,7 +34,7 @@ This document states the active Epics and User Stories for MapStory.org, beginni
 
 **[Warper integration] (items/warper.md)** - As a user, I need a map warper that is integrated with the mapstory importer.
 
-**[Mobile](items/mobile.md)** - As a user, I need to be able to conduct operations on the platform that make sense given the device I am using (desktop, tablet, mobile).
+**[Mobile](items/mobile.md)** - As a user, I need to be able to perform simple search, playback and profile management operations on mobile. Editing, composing, and uploading will not occur on mobile devices at this time.
 
 **[Statistic upload and join existing geometries](items/table-join.md)** - As a user, I want to upload statistics and join that to sets of geometries maintained on MapStory.
 
