@@ -24,8 +24,7 @@ This document states the active Epics and User Stories for MapStory.org, beginni
 
 ### Medium (Within 5 months - March 30th, 2017)
 
-**[Search improvements] (items/search.md)** - As a user, I need to search in the map that feels/works more like the site's search. 
-Hopefully with some nice map-relevant improvements.
+**[Search Improvements](items/find-near.md)** - As a user, I need to be able to find layers, stories and users with intuitive search - either by simply entering word searches, or by filtering in time, space, category, storyteller. Eventually I should be able to search within layers themselves to "find" features within a layer.
 
 **[Organization pages] (items/org-pages.md)** - As a user, I need to manage an Organization Page, which enables me to pool all the storytellers, storylayers and mapstories that represent a group.
 
@@ -75,9 +74,6 @@ in the wiki are integrated with activity feeds on the MapStory site.
 **[Integrated Map Collaboration tools](items/integrated-collab.md)** - People will likely want more tools to 
 work on MapStory with one another. Should investigate providing things like chat, wiki, issue trackers, etc.
 for their layers and maps.
- 
-**[Find near in space and time](items/find-near.md)** - At a feature level people should be able to find other
-data near where they are in the map, in both space and time. So search by feature, not just bounding box of data.
 
 **[Remote data streams](items/remote-data.md)** - Instead of requiring all data to be uploaded to MapStory it
 would be good to let users add remote data. Things like WMS, GeoRSS, KML. Some of these will likely be 'live', like
