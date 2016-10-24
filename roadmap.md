@@ -18,8 +18,7 @@ This document states the active Epics and User Stories for MapStory.org, beginni
 
 **[Storyteller Profiles] (items/storytellers.md)** - As a user, I need to be able to manage the actions I take on the platform, and the way that my actions and personal identity are presented to the public.
 
-**[Playback settings] (items/playback-settings.md)** - Relating to the time control is some good design work
-from the past focusing in on the settings for playback.
+**[Playback settings] (items/playback-settings.md)** - As a user, I need to be able to control the way my story plays back once it is published.
 
 **[Raster and uploader improvements] (items/raster.md)** - As a user, I need to import data as raster - single image or temporal sequence.
 
