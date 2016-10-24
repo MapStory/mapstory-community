@@ -8,6 +8,10 @@ To do this properly we also need to redo our core storyteller infrastructure. We
 2, and Ext.js 3. At the very least these need to be upgraded. But this is also an opportunity to explore new
 toolkits and ways of doing things. 
 
+### Critical Questions
+
+Aspect ratio?
+
 ### User Stories
 
 As a user, I need to be able to customize how the Get Feature Info appears for the features in my StoryLayers when I’m working in composer, and if a viewer of my story will be able to click on features to see Get Feature Info or not.
