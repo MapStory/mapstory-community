@@ -25,7 +25,7 @@ This document states the active Epics and User Stories for MapStory.org, beginni
 
 **[Raster and uploader improvements] (items/raster.md)** - As a user, I need to import data as raster - single image or temporal sequence.
 
-**[Search Improvements](items/find-near.md)** - As a user, I need to be able to find layers, stories and users with intuitive search - either by simply entering word searches, or by filtering in time, space, category, storyteller. Eventually I should be able to search within layers themselves to "find" features within a layer.
+**[Search Improvements](items/search.md)** - As a user, I need to be able to find layers, stories and users with intuitive search - either by simply entering word searches, or by filtering in time, space, category, storyteller. Eventually I should be able to search within layers themselves to "find" features within a layer.
 
 **[Remote data streams](items/remote-data.md)** - Instead of requiring all data to be uploaded to MapStory it
 would be good to let users add remote data. Things like WMS, GeoRSS, KML. Some of these will likely be 'live', like
