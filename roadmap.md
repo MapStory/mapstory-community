@@ -21,7 +21,7 @@ This document states the active Epics and User Stories for MapStory.org, beginni
 **[Playback settings] (items/playback-settings.md)** - As a user, I need to be able to control the way my story plays back once it is published.
 
 
-### Medium (Within 5 months - March 30th, 2017)
+### Medium (Within 10 months - August 30th, 2017)
 
 **[Raster and uploader improvements] (items/raster.md)** - As a user, I need to import data as raster - single image or temporal sequence.
 
