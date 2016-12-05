@@ -20,9 +20,10 @@ This document states the active Epics and User Stories for MapStory.org, beginni
 
 **[Playback settings] (items/playback-settings.md)** - As a user, I need to be able to control the way my story plays back once it is published.
 
-**[Raster and uploader improvements] (items/raster.md)** - As a user, I need to import data as raster - single image or temporal sequence.
 
 ### Medium (Within 5 months - March 30th, 2017)
+
+**[Raster and uploader improvements] (items/raster.md)** - As a user, I need to import data as raster - single image or temporal sequence.
 
 **[Search Improvements](items/find-near.md)** - As a user, I need to be able to find layers, stories and users with intuitive search - either by simply entering word searches, or by filtering in time, space, category, storyteller. Eventually I should be able to search within layers themselves to "find" features within a layer.
 
