@@ -16,6 +16,7 @@ Chapter buttons taking up too much space
 ### Playback Modes
 
 Museum Mode
+
 Interactive Mode
 
 ### Caching
