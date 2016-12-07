@@ -22,9 +22,3 @@ Interactive Mode
 ### Caching
 
 #### Errors and Warnings
-
- * Should be shown inside the window
- * If space is an issue:
-   - expand window width and show error in a right column 
- * Error message should match error message style of updated uploader in MapStory
-
