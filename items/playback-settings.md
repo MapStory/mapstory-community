@@ -27,9 +27,3 @@ Interactive Mode
    - expand window width and show error in a right column 
  * Error message should match error message style of updated uploader in MapStory
 
-![playback settings](images/playback-settings.png)
-
-![more playback settings](images/playback-settings-more.png)
-
-![adding layer](images/adding-layer.png)
-
