@@ -1,6 +1,11 @@
 ## Playback Settings
 
-Improve the settings for playback, based on past wireframes
+Improve the settings for playback, based on wireframes
+
+downward arrow disappear
+minimize sidebar fully
+title taking up too much space
+Chapter buttons taking up too much space
 
 ### Wireframes / design work
 
