@@ -1,19 +1,15 @@
 mapstory-roadmap
 ================
 
-This repository is dedicated to maintaining an evolving roadmap for MapStory.
+This repository is dedicated to maintaining an evolving Product Vision and Roadmap for MapStory. This Roadmap is focused on the purpose and features associated with the platform. 
 
-See [roadmap.md](roadmap.md) for the main document.
+If you're interested in Developer docs associated with MapStory.org, you should see the Wiki in the main [MapStory repo] (https://github.com/MapStory/mapstory/wiki). 
+
+See [roadmap.md](roadmap.md) for the main Roadmap document.
 
 The [items/](items/) folder contains the actual details on the tasks for the roadmap. 
 To read those it is best to just follow the links from the roadmap, as the items will
 then be ordered properly.
-
-This roadmap is _not_ a marketing document, other more user/funder
-friendly documents can be created for that. The MapStory wiki's 
-[Technology Roadmap](http://wiki.mapstory.org/index.php?title=Technology_Roadmap) is currently the best place for that. This is a space for actual
-organization of the development work, taking roadmap items and fleshing them out with requirements,
-specifications, technology plans, wireframes, issues and more as we move from idea to implementation.
 
 ### Adding to the roadmap
 
@@ -26,18 +22,12 @@ management and developers.
 
 ### Maintaining the roadmap
 
-Every two weeks the roadmap should be updated for at least immediate and short term categories. Moving
-items from one time frame to another needs to meet some minimum requirements:
+The Roadmap should be updated by Product Owners at least once per month.
 
 ##### Immediate Term
 
 Any item listed in [immediate term](https://github.com/MapStory/mapstory-roadmap/blob/master/roadmap.md#immediate-within-4-weeks) 
-should have an 'owner' a developer who is working on it, and who expects to finish and deploy to 
-production within 2 months. This should be placed directly on the main roadmap document. 
-
-Anything in immediate term should also have a 'label' in the issue tracker for it. This tracks all the
-bugs and iterations of testing against the topic. The roadmap item should have a link to that label in
-its 'issues' section.
+should have an 'owner'- a developer who is primarily responsible for its delivery. All issues generated as part of an item should have a common label (i.e. "4D") and should have a StoryPoint prediction for level-of-effort (we use the Fibonacci sequence to predict effort). The Designer, in coordination with the developer owner and Product Owners, should make decisions on wireframes as soon as possible.
 
 ##### Medium Term
 
@@ -48,9 +38,7 @@ scope in long term than just the first couple milestones should get in to medium
 
 ##### Long Term and Ideas
 
-These two are more buckets to make sure everything is recorded. Long term should be at least somewhat fleshed
-out. Ideas can just be place holders to remind to fill out the requirements. Long term should also ideally be
-at least in a funding pitch - the idea to secure funding for it relatively soon.
+Long term should be at least somewhat fleshed out. Ideas can just be place holders to remind to fill out the requirements. Long term should also ideally be at least in a funding pitch - the idea to secure funding for it relatively soon.
 
 ##### Completed
 
