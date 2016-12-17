@@ -1,6 +1,17 @@
-## Introduction
+## Product Vision
 
-This document states the active Epics and User Stories for MapStory.org, beginning from November 1, 2016. Technical tickets are developed out of these User Stories and managed in the public Github and private Jira scrum tools. This Roadmap will be dynamic as progress is made and priorities shift as we learn more from users.
+MapStory.org is the atlas of change that everyone can edit. It seeks to organize humanity's shared knowledge about how the world evolves geographically over time, and to make this knowledge easily accessible as an open educational resource. The platform is sustained by the nonprofit MapStory Foundation and dedicated volunteers, contracting partners and sponsors.
+
+The project was originally started by Dr. Christopher Tucker who, as a graduate student at Columbia University, "dreamt of a platform that I could search spatially and temporally and find out what the preponderance of social scientists knew about what had been going on. And better yet, improve upon that knowledge through continuous editing." The goal was to provide a compliment to other open knowledge platforms, such as Wikipedia and OpenStreetMap, that focused on spatio-temporal change (or, in other words, historical geography).
+
+This original sentiment still drives the MapStory.org product vision today, although prototyping has helped clarify the technical approach and target audience that form the project's implementation.
+
+As we begin 2017, we understand MapStory.org to be for scholars, students and enthusiasts around seeking historical perspective on any topic that can be mapped over time - whether that topic is hyper local, such as the rise of a town hyper global, such as the movement of continents. The current MapStory.org platform brings three core technical components together that have never been combined before in order to provide users with a fundametally unique and comprehensive way to understand how our world evolves of time and space. First, it uses the open source GeoNode as a scalable spatial infrastructure for data. Second, it uses GeoGig as a version-editing tool so that all data in MapStory.org can be continuously improved over time. And third, it adds a mapstory "composer" that we built from scratch so users could go beyond mere data visualization to convey deeper narratives about why and how phenomena play out as they do.
+
+
+## Project Status
+
+The first version of the platform was dubbed a "public prototype in development" and launched in April, 2012. Leveraging the Open Geo software stack, it let a registered upload spatio-temporal datasets, generate unique styles for the data, and play the data over time and space. Users 
 
 ### Immediate (within 2 months - December 31, 2016)
 
