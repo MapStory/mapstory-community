@@ -24,7 +24,7 @@ The roadmap below is intended to guide continuous improvement of the Beta releas
 
 **[Locating StoryLayers and MapStories in Space and Time](items/search.md)**
 
-**[Connected related StoryLayers and MapStories](items/related-content.md)
+**[Connected related StoryLayers and MapStories](items/related-content.md)**
 
 ### Importing
 
