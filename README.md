@@ -3,13 +3,9 @@ mapstory-roadmap
 
 This repository is dedicated to maintaining an evolving Product Vision and Roadmap for MapStory.
 
-If you're interested in Developer docs associated with MapStory.org, you should see the Wiki in the main [MapStory repo] (https://github.com/MapStory/mapstory/wiki). 
-
 See [roadmap.md](roadmap.md) for the main Roadmap document.
 
-The [items/](items/) folder contains the actual details on the tasks for the roadmap. 
-To read those it is best to just follow the links from the roadmap, as the items will
-then be ordered properly.
+If you're interested in Developer docs associated with MapStory.org, you should see the Wiki in the main [MapStory repo] (https://github.com/MapStory/mapstory/wiki). 
 
 ### Adding to the roadmap
 
