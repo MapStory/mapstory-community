@@ -36,11 +36,9 @@ The roadmap below is intended to guide continuous improvement of the Beta releas
 
 **[Connect importer to remote data streams](items/remote-data.md)**
 
+**[Allow uploads of statistics that can join to common geometries (like states or countries)](items/table-join.md)**
 
-
-**[Statistic upload and join existing geometries](items/table-join.md)** - As a user, I want to upload statistics and join that to sets of geometries maintained on MapStory.
-
-**[Longitudinal Gazetteer](items/longitudinal-gazetteer.md)** - As a user, I want to link Place Names across data layers to support enhanced search, editing and storytelling
+**[Incorporate Longitudinal Gazetteer](items/longitudinal-gazetteer.md)**
 
 ### Editing & Reviewing
 
