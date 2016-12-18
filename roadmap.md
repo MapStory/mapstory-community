@@ -26,25 +26,27 @@ The roadmap below is intended to guide continuous improvement of the Beta releas
 
 **[Show StoryLayers and MapStories that are "related" to each other](items/related-content.md)**
 
-**[Refine notification streams to help users follow activity they care about](items/notification-streams.md)**
-
 **[Enable searching for and playing MapStories on mobile devices](items/mobile.md)**
 
 **[Enable animated GIF or video output for viral sharing](items/animated-sharing.md)**
 
-### Importing
+**[Refine notification streams to help users follow activity they care about](items/notification-streams.md)**
 
-**[Support data imports with time information extending to 4.5 billion years BCE](/items/geologic-time)**
+### Importing
 
 **[Enable import of raster imgagery] (items/raster.md)**
 
 **[Establish seamless sync between warper.mapstory.org and MapStory importer] (items/warper.md)**
+
+**[Support data imports with time information extending to 4.5 billion years BCE](/items/geologic-time)**
 
 **[Connect importer to remote data streams](items/remote-data.md)**
 
 **[Allow uploads of statistics that can join to common geometries (like states or countries)](items/table-join.md)**
 
 **[Incorporate Longitudinal Gazetteer for place names](items/longitudinal-gazetteer.md)**
+
+**[Enable Community Initiative Leads to define pre-set Schemas for data imported or appended to Initiative StoryLayers] (items/community-infra.md)**
 
 ### Editing & Reviewing
 
@@ -83,8 +85,6 @@ The roadmap below is intended to guide continuous improvement of the Beta releas
 **[Let users control display of their StoryLayers and MapStories on their profile] (items/storytellers.md)**
 
 **[Provide Organization Page owners with analytics] (items/org-pages.md)**
-
-**[Enable Community Initiative Leads to define pre-set Schemas for imported and appended data to Initiative StoryLayers] (items/community-infra.md)**
 
 ### Cross-cutting
 
