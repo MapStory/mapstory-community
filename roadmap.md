@@ -38,7 +38,7 @@ The roadmap below is intended to guide continuous improvement of the Beta releas
 
 **[Allow uploads of statistics that can join to common geometries (like states or countries)](items/table-join.md)**
 
-**[Incorporate Longitudinal Gazetteer](items/longitudinal-gazetteer.md)**
+**[Incorporate Longitudinal Gazetteer for place names](items/longitudinal-gazetteer.md)**
 
 ### Editing & Reviewing
 
