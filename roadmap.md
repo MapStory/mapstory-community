@@ -28,6 +28,8 @@ The roadmap below is intended to guide continuous improvement of the Beta releas
 
 **[Refine notification streams to help users follow activity they care about](items/notification-streams.md)**
 
+**[Enable searching for and playing MapStories on mobile devices](items/mobile.md)**
+
 ### Importing
 
 **[Support data imports with time information extending to 4.5 billion years BCE](/items/geologic-time)**
@@ -69,6 +71,8 @@ The roadmap below is intended to guide continuous improvement of the Beta releas
 
 **[Login and account creation] (items/oauth.md)** - As a user, I need to enable MapStory login to work on mapstory.org, http://warper.mapstory.org and http://wiki.mapstory.org
 
+**[Let users edit basic profile information ion a mobile device](items/mobile.md)
+
 **[Storyteller Profiles] (items/storytellers.md)** - As a user, I need to be able to manage the actions I take on the platform, and the way that my actions and personal identity are presented to the public.
 
 **[Organization pages] (items/org-pages.md)** - As a user, I need to manage an Organization Page, which enables me to pool all the storytellers, storylayers and mapstories that represent a group.
@@ -79,8 +83,6 @@ The roadmap below is intended to guide continuous improvement of the Beta releas
 
 **[3D MapStories](items/3d.md)** - There are several cool WebGL toolkits that may let us view MapStories not just in
 2D but in 3D, over time. As a user, I want to incorporate these.
-
-**[Mobile](items/mobile.md)** - As a user, I need to be able to perform simple search, playback and profile management operations on mobile. Editing, composing, and uploading will not occur on mobile devices at this time.
 
 **[Internationalization](items/i18n.md)** - MapStory should be available to people regardless of what language they
 speak. As a user, I want to make sure the site is all internationalized and start a crowd sourced localization effort.
