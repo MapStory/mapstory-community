@@ -22,7 +22,7 @@ The roadmap below is intended to guide continuous improvement of the Beta releas
 
 ### Exploring
 
-**[Spatial and Temporal Search Filters](items/search.md)**
+**[Locating StoryLayers and MapStories in Space and Time](items/search.md)**
 
 ### Importing
 
