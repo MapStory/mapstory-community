@@ -32,9 +32,11 @@ The roadmap below is intended to guide continuous improvement of the Beta releas
 
 **[Enable import of raster imgagery] (items/raster.md)**
 
-**[Connect importer to remote data streams](items/remote-data.md)** -
+**[Establish seamless sync between warper.mapstory.org and MapStory importer] (items/warper.md)**
 
-**[Warper integration] (items/warper.md)** - As a user, I need a map warper that is integrated with the mapstory importer.
+**[Connect importer to remote data streams](items/remote-data.md)**
+
+
 
 **[Statistic upload and join existing geometries](items/table-join.md)** - As a user, I want to upload statistics and join that to sets of geometries maintained on MapStory.
 
