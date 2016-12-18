@@ -30,6 +30,8 @@ The roadmap below is intended to guide continuous improvement of the Beta releas
 
 **[Enable searching for and playing MapStories on mobile devices](items/mobile.md)**
 
+**[Enable animated GIF or video output for viral sharing](items/animated-sharing.md)**
+
 ### Importing
 
 **[Support data imports with time information extending to 4.5 billion years BCE](/items/geologic-time)**
@@ -52,6 +54,7 @@ The roadmap below is intended to guide continuous improvement of the Beta releas
 
 **[Define algorithms and response rules for peer review tools](items/peer-review.md)**
 
+**[Enable editing of StoryLayers from a mobile device](items/mobile.md)
 
 ### Storytelling
 
@@ -59,13 +62,15 @@ The roadmap below is intended to guide continuous improvement of the Beta releas
 
 **[Add heatmap and clustered styling](items/styling.md)**
 
-**[Implement playback modes ("Museum" and "Interactive"] (items/playback-settings.md)**
+**[Implement playback modes ("Short Story", "Museum", "Interactive"] (items/playback-settings.md)**
 
 **[Enable customized Legends] (items/legend.md)**
 
 **[Support Geologic Time for all MapStory elements] (items/time-new.md)**
 
 **[Enable streaming StoryPins off the map in sidebar] (items/annotations2.md)**
+
+**[Enable 3D MapStories](items/3d.md)**
 
 ### Identities
 
@@ -81,15 +86,8 @@ The roadmap below is intended to guide continuous improvement of the Beta releas
 
 ### Cross-cutting
 
-**[3D MapStories](items/3d.md)** - There are several cool WebGL toolkits that may let us view MapStories not just in
-2D but in 3D, over time. As a user, I want to incorporate these.
-
 **[Internationalization](items/i18n.md)** - MapStory should be available to people regardless of what language they
 speak. As a user, I want to make sure the site is all internationalized and start a crowd sourced localization effort.
-
-**[Animated Sharing](items/animated-sharing.md)** - When we share MapStories on social networks they tend to be a 
-single screenshot. We should investigate animated gif and video outputs for MapStory, as that can make social
-sharing communicate the motion inherent in the stories.
 
 **[Automate contributions from 3rd parties with widgets](items/widgets.md)** - We should explore ways to plant a simple
 'Add to MapStory' button on external sites that focus on spatial-temporal data collection. An example partner interested
