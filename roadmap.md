@@ -54,7 +54,7 @@ The roadmap below is intended to guide continuous improvement of the Beta releas
 
 **[Define algorithms and response rules for peer review tools](items/peer-review.md)**
 
-**[Enable editing of StoryLayers from a mobile device](items/mobile.md)
+**[Enable editing of StoryLayers from a mobile device](items/mobile.md)**
 
 ### Storytelling
 
