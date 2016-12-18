@@ -26,7 +26,7 @@ The roadmap below is intended to guide continuous improvement of the Beta releas
 
 **[Show StoryLayers and MapStories that are "related" to each other](items/related-content.md)**
 
-**[Refine notification streams to help users follow activity they care about](items/notification-streams)**
+**[Refine notification streams to help users follow activity they care about](items/notification-streams.md)**
 
 ### Importing
 
@@ -46,7 +46,10 @@ The roadmap below is intended to guide continuous improvement of the Beta releas
 
 **[Implement new interface for StoryLayer editing] (items/versioning-proto.md)**
 
+**[Show more editing status information on StoryLayer detail pages](Editing-Status-Display.md)**
+
 **[Define algorithms and response rules for peer review tools](items/peer-review.md)**
+
 
 ### Storytelling
 
