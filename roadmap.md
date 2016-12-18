@@ -58,15 +58,15 @@ The roadmap below is intended to guide continuous improvement of the Beta releas
 
 ### Storytelling
 
-**[Create scaled-down viewer setting for single-chaper mapstories ("short stories")](items/playback-settings.md
-
-**[Implement playback modes ("Museum", "Interactive)"] (items/playback-settings.md)**
+**[Create scaled-down viewer setting for single-chaper mapstories ("short stories")](items/playback-settings.md)**
 
 **[Implement new interface for MapStory composing] (items/composer-new.md)** 
 
-**[Add heatmap and clustered styling](items/styling.md)**
+**[Implement playback modes ("Museum", "Interactive)"] (items/playback-settings.md)**
 
 **[Enable customized Legends] (items/legend.md)**
+
+**[Add heatmap and clustered styling](items/styling.md)**
 
 **[Support Geologic Time for all MapStory elements] (items/time-new.md)**
 
@@ -76,31 +76,25 @@ The roadmap below is intended to guide continuous improvement of the Beta releas
 
 ### Identities
 
-**[Login and account creation] (items/oauth.md)** - As a user, I need to enable MapStory login to work on mapstory.org, http://warper.mapstory.org and http://wiki.mapstory.org
+**[Integrate logins across mapstory.org, Wiki, Warper and other tools] (items/oauth.md)**
 
 **[Let users edit basic profile information ion a mobile device](items/mobile.md)**
 
-**[Storyteller Profiles] (items/storytellers.md)** - As a user, I need to be able to manage the actions I take on the platform, and the way that my actions and personal identity are presented to the public.
+**[Let users control display of their StoryLayers and MapStories on their profile] (items/storytellers.md)**
 
-**[Organization pages] (items/org-pages.md)** - As a user, I need to manage an Organization Page, which enables me to pool all the storytellers, storylayers and mapstories that represent a group.
+**[Provide Organization Page owners with analytics] (items/org-pages.md)**
 
-**[Community Initiatives] (items/community-infra.md)** As a user, I need to be able to lead or participate in a Community Initiative. A Community Initiative is a data collection effort on a theme that encourages users to build out massive layers on the same schema. For example, “MapStory Local” will be a set of massive layers that represent of all of human settlement over time, with similar layers and features as one would see in Openstreetmap or Google Maps.
+**[Enable Community Initiative Leads to define pre-set Schemas for imported and appended data to Initiative StoryLayers] (items/community-infra.md)**
 
 ### Cross-cutting
 
-**[Internationalization](items/i18n.md)** - MapStory should be available to people regardless of what language they
-speak. As a user, I want to make sure the site is all internationalized and start a crowd sourced localization effort.
-
-**[Automate contributions from 3rd parties with widgets](items/widgets.md)** - We should explore ways to plant a simple
-'Add to MapStory' button on external sites that focus on spatial-temporal data collection. An example partner interested
-in something like this is historyit.com
+**[Translate MapStory into many languages](items/i18n.md)**
 
 ### Infrastructure/DevOps
 
-**[Scalability improvements] (items/scalability.md)** - 
+**[Scalability improvements] (items/scalability.md)**
 
-**[Developer Tab] (items/developer-tab.md)** - Add a section of the map/layer pages that lets developers know how
-they can programmatically access the map and its data, like with openlayers, google maps, wms, wfs, etc.
+**[Add a Developer's Tab to StoryLayer and MapStory detail pages] (items/developer-tab.md)**
 
 ### Ideas (catch all)
 
