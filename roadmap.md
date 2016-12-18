@@ -18,11 +18,11 @@ In January 2017 a Beta version of MapStory.org was released that represents virt
 
 ## Project Roadmap
 
-The roadmap below is intended to guide continuous improvement of the Beta release during 2017 and beyond. Each item is a feature organized into 5 themes that form the core of the platform - exploring, impoorting, editing, storytelling, and identiy management. The current MapStory development team will meet in the first week of January to estimate level of effort for features, order them by priority, and determine high-level timeframes for Beta upgrade releases. Timeframes will be turned into Milestones in Github.
+The roadmap below is intended to guide continuous improvement of the Beta release during 2017 and beyond. Each item is a feature organized into 5 themes that form the core of the platform - exploring, importing, editing, storytelling, and identiy management, as well as cross-cutting issues and back-end infrastructure and DevOps concerns. The current MapStory development team will meet in the first week of January, 2017 to estimate level of effort for features, order them by priority, and determine high-level timeframes for Beta upgrade releases. Timeframes will be turned into Milestones in Github.
 
 ### Exploring
 
-**[Search Improvements](items/search.md)** - As a user, I need to be able to find layers, stories and users with intuitive search - either by simply entering word searches, or by filtering in time, space, category, storyteller. Eventually I should be able to search within layers themselves to "find" features within a layer.
+**[Spatial and Temporal Search Filters](items/search.md)** -
 
 ### Importing
 
