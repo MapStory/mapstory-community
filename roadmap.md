@@ -78,7 +78,7 @@ The roadmap below is intended to guide continuous improvement of the Beta releas
 
 **[Integrate logins across mapstory.org, Wiki, Warper and other tools] (items/oauth.md)**
 
-**[Let users edit basic profile information ion a mobile device](items/mobile.md)**
+**[Let users edit basic profile information on a mobile device](items/mobile.md)**
 
 **[Let users control display of their StoryLayers and MapStories on their profile] (items/storytellers.md)**
 
