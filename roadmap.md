@@ -22,9 +22,9 @@ The roadmap below is intended to guide continuous improvement of the Beta releas
 
 ### Exploring
 
-**[Locating StoryLayers and MapStories in Space and Time](items/search.md)**
+**[Locate StoryLayers and MapStories in Space and Time](items/search.md)**
 
-**[Connected related StoryLayers and MapStories](items/related-content.md)**
+**[Connect related StoryLayers and MapStories](items/related-content.md)**
 
 ### Importing
 
