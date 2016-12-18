@@ -71,7 +71,7 @@ The roadmap below is intended to guide continuous improvement of the Beta releas
 
 **[Login and account creation] (items/oauth.md)** - As a user, I need to enable MapStory login to work on mapstory.org, http://warper.mapstory.org and http://wiki.mapstory.org
 
-**[Let users edit basic profile information ion a mobile device](items/mobile.md)
+**[Let users edit basic profile information ion a mobile device](items/mobile.md)**
 
 **[Storyteller Profiles] (items/storytellers.md)** - As a user, I need to be able to manage the actions I take on the platform, and the way that my actions and personal identity are presented to the public.
 
