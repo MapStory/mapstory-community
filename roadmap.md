@@ -42,7 +42,7 @@ The roadmap below is intended to guide continuous improvement of the Beta releas
 
 ### Editing & Reviewing
 
-**[Mass editing of change over time] (items/versioning-proto.md)**
+**[Implement new interface for StoryLayer editing] (items/versioning-proto.md)**
 
 **[Define algorithms and values behind peer review tools](items/peer-review.md)** - We need to futher define the user experience
 of our peer review tools (star rating and flag error). Also explore other features for curating quality and signaling rigor.
