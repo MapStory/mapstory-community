@@ -1,7 +1,7 @@
 mapstory-roadmap
 ================
 
-This repository is dedicated to maintaining an evolving Product Vision and Roadmap for MapStory. This Roadmap is focused on the purpose and features associated with the platform. 
+This repository is dedicated to maintaining an evolving Product Vision and Roadmap for MapStory.
 
 If you're interested in Developer docs associated with MapStory.org, you should see the Wiki in the main [MapStory repo] (https://github.com/MapStory/mapstory/wiki). 
 
