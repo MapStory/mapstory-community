@@ -24,7 +24,7 @@ The roadmap below is intended to guide continuous improvement of the Beta releas
 
 **[Locate StoryLayers and MapStories in Space and Time](items/search.md)**
 
-**[Connect related StoryLayers and MapStories](items/related-content.md)**
+**[Show StoryLayers and MapStories that are "related" to each other](items/related-content.md)**
 
 **[Refine notification streams to help users follow activity they care about](items/notification-streams)**
 
