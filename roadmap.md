@@ -12,7 +12,7 @@ From the start of MapStory.org, we hoped the project would make a great impact o
 
 ## Project Status
 
-The first version of the platform was dubbed a "public prototype in development" and launched in April, 2012. Leveraging the Open Geo software stack, it let a registered upload spatio-temporal datasets, generate unique styles for the data, and play the data over time and space. Over 2,000 users accessed the prototype and completed projects that appeared in popular media, like the Washington Post, Vox, and the Atlantic Magazine.
+The first version of the platform was dubbed a "public prototype in development" and launched in April, 2012. Leveraging the Open Geo software stack, it let a registered user upload spatio-temporal datasets, generate unique styles for the data, and play the data over time and space. Over 2,000 users accessed the prototype and completed projects that appeared in popular media, like the Washington Post, Vox, and the Atlantic Magazine.
 
 In January 2017 a Beta version of MapStory.org was released that represents virtually an entire rebuild of the platform. From a user perspective, the main upgrades were the introduction of a new mapstory "composer" that allows for multi-chapter storytelling, and version editing of StoryLayers. On the back-end, the platform has also been upgraded to the latest version of the GeoNode and incorpated the new OS-Geo importer.
 
