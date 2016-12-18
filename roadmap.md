@@ -70,7 +70,9 @@ The roadmap below is intended to guide continuous improvement of the Beta releas
 
 **[Provide mapstory "templates" with pre-set element configurations](items/mapstory-templates.md)**
 
-**[Enable customized Legends] (items/legend.md)**
+**[Let storyteller customize their Legend] (items/legend.md)**
+
+**[Let user define behavior for Feature Boxes]
 
 **[Add heatmap and clustered styling](items/styling.md)**
 
