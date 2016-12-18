@@ -30,6 +30,8 @@ The roadmap below is intended to guide continuous improvement of the Beta releas
 
 ### Importing
 
+**[Support data imports with time information extending to 4.5 billion years BCE](/items/geologic-time)**
+
 **[Enable import of raster imgagery] (items/raster.md)**
 
 **[Establish seamless sync between warper.mapstory.org and MapStory importer] (items/warper.md)**
