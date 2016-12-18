@@ -30,7 +30,7 @@ The roadmap below is intended to guide continuous improvement of the Beta releas
 
 ### Importing
 
-**[Raster and uploader improvements] (items/raster.md)** - As a user, I need to import data as raster - single image or temporal sequence.
+**[Enable import of raster imgagery] (items/raster.md)**
 
 **[Remote data streams](items/remote-data.md)** - Instead of requiring all data to be uploaded to MapStory it
 would be good to let users add remote data. Things like WMS, GeoRSS, KML. Some of these will likely be 'live', like
