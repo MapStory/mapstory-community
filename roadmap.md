@@ -78,6 +78,8 @@ The roadmap below is intended to guide continuous improvement of the Beta releas
 
 **[Enable streaming StoryPins off the map in sidebar] (items/annotations2.md)**
 
+**[Enable multiple users to work on the same MapStory, at the same time](multi-user-mapstorytelling.md)**
+
 **[Enable 3D MapStories](items/3d.md)**
 
 ### Identities
