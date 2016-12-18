@@ -66,7 +66,9 @@ The roadmap below is intended to guide continuous improvement of the Beta releas
 
 **[Implement new interface for MapStory composing] (items/composer-new.md)** 
 
-**[Implement playback modes ("Museum", "Interactive)"] (items/playback-settings.md)**
+**[Implement playback modes ("Museum", "Interactive)] (items/playback-settings.md)**
+
+**[Provide mapstory "templates" with pre-set element configurations](items/mapstory-templates.md)**
 
 **[Enable customized Legends] (items/legend.md)**
 
