@@ -78,7 +78,7 @@ The roadmap below is intended to guide continuous improvement of the Beta releas
 
 **[Support Geologic Time for all MapStory elements] (items/time-new.md)**
 
-**[Enable streaming StoryPins off the map in sidebar] (items/annotations2.md)**
+**[Enable StoryPins to be streamed off the map in sidebar] (items/annotations2.md)**
 
 **[Enable multiple users to work on the same MapStory, at the same time](multi-user-mapstorytelling.md)**
 
