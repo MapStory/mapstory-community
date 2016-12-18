@@ -55,17 +55,17 @@ The roadmap below is intended to guide continuous improvement of the Beta releas
 
 ### Storytelling
 
-**[Styling](items/styling.md)** - As a user, I need to be able to style layers I use in my story so that my story conveys meaning in the way I envision.
+**[Implement new interface for MapStory composing] (items/composer-new.md)** 
 
-**[Story composing] (items/composer-new.md)** 
+**[Add heatmap and clustered styling](items/styling.md)**
 
-**[Playback settings] (items/playback-settings.md)** - As a user, I need to be able to control the way my story plays back once it is published.
+**[Implement playback modes ("Museum" and "Interactive"] (items/playback-settings.md)**
 
-**[Legend Enhancements] (items/legend.md)** - As a user, I need to be able to customize my legend in composer and have it appear the way I set it on a published story.
+**[Enable customized Legends] (items/legend.md)**
 
-**[Time Controls] (items/time-new.md)** - As a user, I need time controls on layers and stories that are intuitive, fast and honor the time information in my layers.
+**[Support Geologic Time for all MapStory elements] (items/time-new.md)**
 
-**[StoryPin Improvements] (items/annotations2.md)** - As a user, I need to be able to quickly and intuitively create StoryPin annotations that help me explain activity on the map that is not part of the data in my storylayers.
+**[Enable streaming StoryPins off the map in sidebar] (items/annotations2.md)**
 
 ### Identities
 
