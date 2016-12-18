@@ -24,6 +24,8 @@ The roadmap below is intended to guide continuous improvement of the Beta releas
 
 **[Locating StoryLayers and MapStories in Space and Time](items/search.md)**
 
+**[Connected related StoryLayers and MapStories](items/related-content.md)
+
 ### Importing
 
 **[Raster and uploader improvements] (items/raster.md)** - As a user, I need to import data as raster - single image or temporal sequence.
