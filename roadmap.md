@@ -26,6 +26,8 @@ The roadmap below is intended to guide continuous improvement of the Beta releas
 
 **[Connect related StoryLayers and MapStories](items/related-content.md)**
 
+**[Refine notification streams to help users follow activity they care about](items/notification-streams)**
+
 ### Importing
 
 **[Raster and uploader improvements] (items/raster.md)** - As a user, I need to import data as raster - single image or temporal sequence.
