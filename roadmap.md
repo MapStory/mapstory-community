@@ -58,11 +58,13 @@ The roadmap below is intended to guide continuous improvement of the Beta releas
 
 ### Storytelling
 
+**[Create scaled-down viewer setting for single-chaper mapstories ("short stories")](items/playback-settings.md
+
+**[Implement playback modes ("Museum", "Interactive)"] (items/playback-settings.md)**
+
 **[Implement new interface for MapStory composing] (items/composer-new.md)** 
 
 **[Add heatmap and clustered styling](items/styling.md)**
-
-**[Implement playback modes ("Short Story", "Museum", "Interactive"] (items/playback-settings.md)**
 
 **[Enable customized Legends] (items/legend.md)**
 
