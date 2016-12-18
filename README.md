@@ -22,26 +22,4 @@ management and developers.
 
 ### Maintaining the roadmap
 
-The Roadmap should be updated by Product Owners at least once per month.
-
-##### Immediate Term
-
-Any item listed in [immediate term](https://github.com/MapStory/mapstory-roadmap/blob/master/roadmap.md#immediate-within-4-weeks) 
-should have an 'owner'- a developer who is primarily responsible for its delivery. All issues generated as part of an item should have a common label (i.e. "4D") and should have a StoryPoint prediction for level-of-effort (we use the Fibonacci sequence to predict effort). The Designer, in coordination with the developer owner and Product Owners, should make decisions on wireframes as soon as possible.
-
-##### Medium Term
-
-Medium term items should have a real commitment to them, be it funding secured or a volunteer developer
-agreed to do all the work. They should have the requirements detailed out to sufficient degree to begin
-wireframes or technology plan. Medium term items should also be in accomplishable chunks. If it is a huge
-scope in long term than just the first couple milestones should get in to medium term.
-
-##### Long Term and Ideas
-
-Long term should be at least somewhat fleshed out. Ideas can just be place holders to remind to fill out the requirements. Long term should also ideally be at least in a funding pitch - the idea to secure funding for it relatively soon.
-
-##### Completed
-
-Completed items should be fully deployed to production. If all the original goals were not accomplished than
-another roadmap item can be created to lay out what to do next. But some work towards the end should be 
-deployed to production on mapstory.org before marking something as completed.
+The Roadmap should be updated by Product Owners at least once per month. Items within themes should be listed in order of priority.
