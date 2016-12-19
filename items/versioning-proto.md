@@ -1,38 +1,15 @@
-## Versioning Prototype
-
-MapStory aims to have full versioning of all StoryLayers. The basis of this will be http://geogit.org 
-Since it still needs lots of development we will start by deploying at tools.geonode.org a special GeoNode that has a few
-select MapStory layers under versioning. This will let the MapStory community give feedback and use
-the new technology. Once that is solid we will figure out how to incorporate the technology in to all
-of MapStory.
-
-### User Stories
-
-As a user, I need to add, edit or delete features on any layer that has settings open for community editing.
-
-As a user, I need to be able to scrum the timeline back and forth on a layer rapidly, so that I can gain a quick sense of the data included in that layer
-
-As a user, I need to be able to edit metadata of other users’ StoryLayers, so I can make it more complete and accurate.
-
-As a user, I need to be able to add new attributes to StoryLayers that I own after the point of upload. 
-
 ### Requirements
 
-Most all this work is being done by the ROGUE team, so they are driving many of the requirements.
+The current 0.0 editing interface has a basic sidebar that lets a user add, edit, or delete features on a StoryLayer. As features are edited, an "Edit History" tracks them. Additionally, the user can view a Table of the features, but cannot edit from the table view in a way that edits are tracked.
 
-From a MapStory perspective we just want a GeoNode that is stood up in a location we can point users
-at. It should have versioning enabled, for at least a couple prime MapStory layers, like the 
-Histoire Mondiale, or some MapStory Local layers. 
+The current editing interface and workflow leaves several issues unaddressed including:
 
-After that is set up a key step will be to make it so that improvements there are reflected on the MapStory site.
+- [] Users can edit from the Table View
+- [] There is no styling tools in the edit mode. Styling in edit mode should be aimed and communicating to an editor the status of a feature (r a confidence interval). For example, features that are _known_ to be unverified should clearly be indicated as such, while features that have been edited many times should also be clearly indicated as such.
+- []There is no way for editors to add commentary or "notes" about their edits. For example, an editor may want to note that evidence they have to support an edit, or uncertainty that they have despite making an edit.
 
 ### Tech plan/thoughts
 
-* Should set up a new GeoNode for the versioning. A complete separate interface.
-* Would be good to get login working across both GeoNodes, like the work in the [Login roadmap item] (oauth.md)
-* They should talk to the same database, so that changes in the versioning interface get reflected
-in the main MapStory story.
-* To work well will need a way to notify GeoWebCache of the changes made.
 
 ### Progress
 
