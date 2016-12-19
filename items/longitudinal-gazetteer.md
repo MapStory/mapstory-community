@@ -2,7 +2,7 @@
 
 Provide a gazetteer that is accurate with names that evolve over time.
 
-### Requirementa
+### Requirements
 
 The gazetteer will allow us to link data at a feature level, and to organize knowledge about individual features across layers.
 
