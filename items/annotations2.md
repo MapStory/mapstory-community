@@ -1,13 +1,9 @@
-## StoryPin Improvements
+## Requirements/Spex
 
 Learning from the work done in the [first round](annotations.md) of annotation work this will mostly be
-focused on user testing and improving in the ways that real people are interested in. We also have
-some older wireframes that focus on annotations and timeline in the small map view, which would be 
-good to do too.
+focused on user testing and improving in the ways that real people are interested in.
 
-### Requirements
-
-Learn from users, and get annotations working really well.
+One enhancement we know we need to make to StoryPins is to let them be streamed off-the-map (in the sidebar). We also need to consider the roll of StoryPins in a MapStory played on a mobile device.
 
 ### User Strories
 
@@ -17,18 +13,11 @@ As a user, I need be able to define the time range for my StoryPins by clicking 
 
 ### Wireframes/design
 
-#### Timeline-Related UI Updates
-
-To address:
- * Issue 399 - Show timeline / annotations on small map
- * Issue 401 - Evaluate when we show annotations on map 
-
-##### Timeline / Annotations on Small Map (399)
+### Old fodder
 
 **Example (draft -- wireframe only)**
 
 ![small map](images/timeline-small-map-v2b.png)
-
 
 **Example - Viewing Full Note Text (draft -- wireframe only)**
 
