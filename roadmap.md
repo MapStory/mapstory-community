@@ -38,7 +38,7 @@ The roadmap below is intended to guide continuous improvement of the Beta releas
 
 **[Establish seamless sync between warper.mapstory.org and MapStory importer] (items/warper.md)**
 
-**[Support data imports with time information extending to 4.5 billion years BCE](/items/geologic-time)**
+**[Support data imports with time information extending to 4.5 billion years BCE](/items/geologic-time.md)**
 
 **[Connect importer to remote data streams](items/remote-data.md)**
 
