@@ -72,7 +72,7 @@ The roadmap below is intended to guide continuous improvement of the Beta releas
 
 **[Let storyteller customize their Legend] (items/legend.md)**
 
-**[Let user define behavior for Feature Boxes] (feature-boxes)**
+**[Upgrade functionality of FeatureBoxes] (items/feature-boxes.md)**
 
 **[Add heatmap and clustered styling](items/styling.md)**
 
