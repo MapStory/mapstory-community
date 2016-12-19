@@ -52,7 +52,7 @@ The roadmap below is intended to guide continuous improvement of the Beta releas
 
 **[Implement new interface for StoryLayer editing] (items/versioning-proto.md)**
 
-**[Show more editing status information on StoryLayer detail pages](Editing-Status-Display.md)**
+**[Show more editing status information on StoryLayer detail pages](items/Editing-Status-Display.md)**
 
 **[Enable feature editing from a table rather than just on the map](items/table-based-editing)**
 
