@@ -1,24 +1,15 @@
-### Design of Viewer
 
-Improve the settings for playback, based on wireframes
+### Single Chapter Mapstories ("short stories")
 
-downward arrow disappear
-minimize sidebar fully
-title taking up too much space
-Chapter buttons taking up too much space
+The viewer page for a single chapter mapstory should not show the "chapter info" and "summary" information twice, as it currently does.
 
-#### Full Screen
 
-#### Mobile
+### Tech plan/notes
 
-#### Embed
 
-### Playback Modes
+### Wireframes
+(optional, remove if not relevant)
 
-Museum Mode
+### People
 
-Interactive Mode
-
-### Caching
-
-#### Errors and Warnings
+### Issues
