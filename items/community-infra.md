@@ -2,7 +2,8 @@
 
 Community Initiatives are mass crowdsourcing/crowdediting efforts on a specific set of layers with defined schemas. They are given their own page as a home-base for participants in the initiative to track progress on the layers that are part of the initiative. The MapStory Foundation gives administrative power to a set of users that manage the Initiative page.
 
-The User Stories required to enable Community Initiatives include:
+###For reference: 
+User Stories required to enable Community Initiatives include:
 
 Our help and support infrastructure is all over the place. We should attempt to improve it enough so
 that a community can bootstrap itself.
