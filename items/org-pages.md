@@ -2,23 +2,13 @@
 
 Organizations should be able to customize a presence on MapStory, similar how one can on MeetUp. 
 
-### User Stories
-
-As a user, I need to be able to “own” and manage an Organization Page that is represented in the storyteller search and sits at a customized URL (i.e. mapstory.org/OrganizationName)
-
 ### Requirements
 
-Just need admin control for now, so does not need to look pretty. All the basics are done at
-http://mapstory.dev.opengeo.org/mapstory-foundation/ so won't describe everything now.
+A user should be able to be given "admin rights" over an Organization Page. This empowers them to edit the Organization Page profile and add storytellers to the profile.
 
-### Future work
-
-Make things more intuitive. We will be getting user feedback as MapStory interns this summer
-will make some sample pages, using our interface. So we should use their feedback to make an interface
-that anyone can use.
+We should also develop an "analytics digest" that can be shared with Org Page administrators. The analytics would provide intel on use of layers, edit history, stories published, data downloads, and other items of interest to Org Page administrators as we learn needs over time.
 
 ### People
-Started by Ian, with work by Jeff and Ivan, and soon Marc
 
 ### Issues
 
