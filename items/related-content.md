@@ -5,12 +5,13 @@ Link StoryLayers and MapStories by a series of "related" concepts to promote dis
 ### On the StoryLayer detail page
 
 Show MapStories that use this StoryLayer
-Show other StoryLayers that are "similar"
+Show other StoryLayers that are "similar" to this StoryLayer. Definitions of "similar" could be driven by categories, time, geography, tags.
 
 ### On the MapStory detail page:
 
 Show other MapStories by this Storyteller
-Show other MapStories that are "simiar"
+Show other MapStories that are "simiar". Definitions of "similar" could be driven by categories, time, geography, tags.
+
 
 ## Tech plan/notes
 
