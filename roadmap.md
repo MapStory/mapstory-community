@@ -54,7 +54,7 @@ The roadmap below is intended to guide continuous improvement of the Beta releas
 
 **[Show more editing status information on StoryLayer detail pages](items/Editing-Status-Display.md)**
 
-**[Enable feature editing from a table rather than just on the map](items/table-based-editing)**
+**[Enable feature editing from a table rather than just on the map](items/table-based-editing.md)**
 
 **[Define algorithms and response rules for peer review tools](items/peer-review.md)**
 
