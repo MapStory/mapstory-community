@@ -1,22 +1,10 @@
-## Improve storytellers/profile pages
-
-### User Stories
+##Requirement/Spec
 
 As a user, I need to be able control the order in which my published storylayers and mapstories appear on my public profile.
 
-As a user, I need to be able to “own” and manage an Organization Page that is represented in the storyteller search and sits at a customized URL (i.e. mapstory.org/OrganizationName)
+Right now, all of my published StoryLayers and MapStories simply appear on a most-recent basis. I should have more control over the order and prominence given to items shown on my profile.
 
-### Requirements/spec
-
-First requirement is to enable links and media ribbon for users. 
-
-The bigger thing is to rethink how users edit their profile and do all the other actions, and how that
-fits with the display of their profile. Indeed even what the split between the 'storyteller page' and the
-'profile page' and what that means. And then there's also the 'edit profile' page.
-
-Would be ideal to have more in page javascript editing. The organization pages do some of this decently,
-where if you are the owner then you get 'edit' buttons on everything that you can change. So are editing
-the things just as you'd see them on display, not in some separate form.
+In fact, we may want to go further and provide storytellers with a personal "dashboard" that is separate from their storyteller profile page where they can manage their projects and profile. This would become a sort of "homepage" for them when using mapstory.
 
 ### Tech plan/notes
 
@@ -25,13 +13,6 @@ javascript touches, for in line editing of information.
 
 ### Wireframes
 
-
 ### People
-Steven to start with some design thinking, then a django resource to implement.
 
 ### Issues
-https://github.com/MapStory/mapstory/issues/461 is to enable links and media ribbon. It is mostly done, so
-may get deployed. But the refresh that is the bulk of this is on:
-https://github.com/MapStory/mapstory/issues/742
-
-That should lead to a number of issues and we can unit them with a label.
