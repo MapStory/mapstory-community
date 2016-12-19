@@ -1,29 +1,11 @@
 ##Legend Enhancements 
 
-Rework the legend to not take up so much space and be more intuitive.
+Legends are an extremely import part of a mapstory. We should make them as accurate and intuitive as possible.
 
 ### Requirements and wireframes
 
-![legend-wireframe](images/revised-legend.png)
+Currently the legend shows the StoryLayers in a chapter, and any styling information (stastical breaks, etc). Also, a user can "mask" the layer and styling information in their Legend to control the text that is present.
 
-
-##### General
-
-* Tweak opacity of background so text is easier to read (also need to try on a variety of maps)
-* Add a close button (use bootstrap icon)
-
-##### StoryLayers
-* Display symbols to the left of the label
-* When a layer has multiple symbols, show the layer title and then a list of the symbols below the title
-* Click a layer name to toggle the visibility of that layer (see HighCharts demo for example of similar functionality -- click on any item in the legend to toggle)
-* Click an item within a layer to toggle visibility of that item
-* TBD: continuous ranges/scales
-
-##### BaseMap
-* Convert to a dropdown
-* If there is a legend associated with base map, show in same style as StoryLayers
-* Show legend below the dropdown
+We should improve improve on this by letting the storytelling "hide" any storylayers he/she doesn't want to appear in the legend. Also, the basemap toggle should be put back in the legend drop down.
 
 ### Issues
-
-https://github.com/MapStory/mapstory/issues/425
