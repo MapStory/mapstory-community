@@ -1,4 +1,4 @@
-## Requirements/Spex
+## Requirements/Spec
 
 Learning from the work done in the [first round](annotations.md) of annotation work this will mostly be
 focused on user testing and improving in the ways that real people are interested in.
