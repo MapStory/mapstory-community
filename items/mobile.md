@@ -2,6 +2,10 @@
 
 Users should be able to visit mobile-friendly version of mapstory.org on a mobile device and conduct basic searches of StoryLayers and MapStories and then "playback" content.
 
+## Mobile Editing
+
+Eventually, we should enable users to edit StoryLayers from a mobile device. This would do a great service to engagement on the platform. Imagine someone who is following a "public parks" layer who is able to add a park to the layer when they are visiting it that they discovcer is not yet on the layer.
+
 ### Notes
 
 We will need to think through the best playback settings for layers and stories viewed on a mobile device. 
