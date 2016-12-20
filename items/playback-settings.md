@@ -1,7 +1,7 @@
 
 ## Single Chapter Mapstories ("short stories")
 
-The viewer page for a single chapter mapstory should not show the "chapter info" and "summary" information twice, as it currently does.
+In the short run, the viewer page for a single chapter mapstory should not show the "chapter info" and "summary" information twice, as it currently does. In the longer run we may want to think about a unique page format for a single chapter "short story"
 
 ## Museum Playback Mode
 
