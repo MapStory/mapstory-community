@@ -62,7 +62,9 @@ The roadmap below is intended to guide continuous improvement of the Beta releas
 
 ### Storytelling
 
-**[Create scaled-down viewer setting for single-chaper mapstories ("short stories")](items/playback-settings.md)**
+**[Create scaled-down viewer detail page for single-chaper mapstories ("short stories")](items/playback-settings.md)**
+
+**[Provider story owners more power to customize story detail pages](/items/MapStory_Detail_Page.md)**
 
 **[Implement new interface for MapStory composing] (items/composer-new.md)** 
 
