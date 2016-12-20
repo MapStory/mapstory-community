@@ -22,6 +22,10 @@ The roadmap below is intended to guide continuous improvement of the Beta releas
 
 ### Exploring
 
+The purpose of Exploring in MapStory.org is to empower visitors to the site (whether they are registered users or not), to find and view StoryLayers and MapStories, and to learn about Storytellers who have created this content. A non-registered user will essentially have read-only powers over content. They can hit play and embed content on other site. The experience should be a bit like visiting YouTube and watching videos. As a space-time atlas, it is very important that visitors be able to Explore along the dimensions of time and space. They should be able to ask themselves "what time periods am I interested in seeing content about?" or "what geographic areas am I interested in seeing content about?"
+
+For a Registered User, exploring is about initiating action. A registered user goes to a StoryLayer, for example, with the intent of potentially improving it through editing, or using it for a mapstory they want to tell. A registered user goes to a MapStory with the intent of potentially using the layers used in that story to go off and make their own story. Registered users are also empowered to be curators or peer reviewers...adding ratings, flags and comments to content as they see it. The initial action of exploring is similar for registered and non-registered users...they want to find content that interests them. But their powers of action around content once they get to what they are looking for are different.
+
 **[Locate StoryLayers and MapStories in Space and Time](items/search.md)**
 
 **[Show StoryLayers and MapStories that are "related" to each other](items/related-content.md)**
@@ -32,7 +36,9 @@ The roadmap below is intended to guide continuous improvement of the Beta releas
 
 **[Refine notification streams to help users follow activity they care about](items/notification-streams.md)**
 
-### Importing
+### Importing/Creating StoryLayers
+
+The core foundation of MapStory.org is the spatio-temporal data layers that exist inside of the platform. These StoryLayers are a bit like a wikipedia article in the form of an animated map - they project the "objective" what/wheren/when, and they can be constantly edited for completeness and accuracy. Users can begin StoryLayers by importing raw data, or by creating a new StoryLayer right in the app.
 
 **[Enable import of raster imgagery] (items/raster.md)**
 
@@ -50,6 +56,8 @@ The roadmap below is intended to guide continuous improvement of the Beta releas
 
 ### Editing & Reviewing
 
+The goal of editing and reviewing is to make StoryLayers more complete and accurate. Editing occurs at the level of the features inside a StoryLayer. Reviewing occurs on the layer at a general level - i.e. by rating the layer as a whole or flagging the layer as a whole. Over time, hopefully, the best StoryLayers on a topic will rise to the top, and rather than duplicating StoryLayers, users will begin to just add marginal improvements on existing StoryLayers. For example, we probably only need one dataset (StoryLayer) about the history of post offices in America. Every time a new post office gets opened, or another one closed, we should just be able to edit a Post Offices storylayer.
+
 **[Implement new interface for StoryLayer editing] (items/versioning-proto.md)**
 
 **[Show more editing status information on StoryLayer detail pages](items/Editing-Status-Display.md)**
@@ -61,6 +69,8 @@ The roadmap below is intended to guide continuous improvement of the Beta releas
 **[Enable editing of StoryLayers from a mobile device](items/mobile.md)**
 
 ### Storytelling
+
+Storytelling is the process of combining objective StoryLayers with other types of subjective annotation and media. The goal of a MapStory is to answer "how" and "why" questions, not just the "what/where/when". Storytellers should be able to use StoryLayers already in the platform provided by others and put those StoryLayers to work for the story they want to tell. This means adding a unique style to StoryLayers, only using part of a StoryLayers total timespan, controlling zoom levels for StoryLayers so we only see the geography that the storyteller wants us to see, adding contextual info, etc.
 
 **[Create scaled-down viewer detail page for single-chaper mapstories ("short stories")](items/playback-settings.md)**
 
@@ -87,6 +97,8 @@ The roadmap below is intended to guide continuous improvement of the Beta releas
 **[Enable 3D MapStories](items/3d.md)**
 
 ### Identities
+
+Everything in MapStory.org is done by _people_. It is a social platform with high attribution. The right metaphor is to a book authored by lots of people, not a database. Thus, users need a profile that they can control to present their work, and to be able to manage how they are represented across the platform.
 
 **[Integrate logins across mapstory.org, Wiki, Warper and other tools] (items/oauth.md)**
 
