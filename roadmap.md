@@ -26,6 +26,8 @@ The purpose of Exploring in MapStory.org is to empower visitors to the site (whe
 
 For a Registered User, exploring is about initiating action. A registered user goes to a StoryLayer, for example, with the intent of potentially improving it through editing, or using it for a mapstory they want to tell. A registered user goes to a MapStory with the intent of potentially using the layers used in that story to go off and make their own story. Registered users are also empowered to be curators or peer reviewers...adding ratings, flags and comments to content as they see it. The initial action of exploring is similar for registered and non-registered users...they want to find content that interests them. But their powers of action around content once they get to what they are looking for are different.
 
+#### In 2017, the priorities for improving the exploring experience are:
+
 **[Locate StoryLayers and MapStories in Space and Time](items/search.md)**
 
 **[Show StoryLayers and MapStories that are "related" to each other](items/related-content.md)**
@@ -39,6 +41,8 @@ For a Registered User, exploring is about initiating action. A registered user g
 ### Importing/Creating StoryLayers
 
 The core foundation of MapStory.org is the spatio-temporal data layers that exist inside of the platform. These StoryLayers are a bit like a wikipedia article in the form of an animated map - they project the "objective" what/wheren/when, and they can be constantly edited for completeness and accuracy. Users can begin StoryLayers by importing raw data, or by creating a new StoryLayer right in the app.
+
+### In 2017 the priorities for improving the import and creation of StoryLayers are:
 
 **[Enable import of raster imgagery] (items/raster.md)**
 
@@ -58,6 +62,8 @@ The core foundation of MapStory.org is the spatio-temporal data layers that exis
 
 The goal of editing and reviewing is to make StoryLayers more complete and accurate. Editing occurs at the level of the features inside a StoryLayer. Reviewing occurs on the layer at a general level - i.e. by rating the layer as a whole or flagging the layer as a whole. Over time, hopefully, the best StoryLayers on a topic will rise to the top, and rather than duplicating StoryLayers, users will begin to just add marginal improvements on existing StoryLayers. For example, we probably only need one dataset (StoryLayer) about the history of post offices in America. Every time a new post office gets opened, or another one closed, we should just be able to edit a Post Offices storylayer.
 
+#### In 2017, the priorities for improving the editing and reviewing experience are:
+
 **[Implement new interface for StoryLayer editing] (items/versioning-proto.md)**
 
 **[Show more editing status information on StoryLayer detail pages](items/Editing-Status-Display.md)**
@@ -71,6 +77,8 @@ The goal of editing and reviewing is to make StoryLayers more complete and accur
 ### Storytelling
 
 Storytelling is the process of combining objective StoryLayers with other types of subjective annotation and media. The goal of a MapStory is to answer "how" and "why" questions, not just the "what/where/when". Storytellers should be able to use StoryLayers already in the platform provided by others and put those StoryLayers to work for the story they want to tell. This means adding a unique style to StoryLayers, only using part of a StoryLayers total timespan, controlling zoom levels for StoryLayers so we only see the geography that the storyteller wants us to see, adding contextual info, etc.
+
+#### In 2017, the priorities for improving the storytelling experience are:
 
 **[Create scaled-down viewer detail page for single-chaper mapstories ("short stories")](items/playback-settings.md)**
 
@@ -99,6 +107,8 @@ Storytelling is the process of combining objective StoryLayers with other types 
 ### Identities
 
 Everything in MapStory.org is done by _people_. It is a social platform with high attribution. The right metaphor is to a book authored by lots of people, not a database. Thus, users need a profile that they can control to present their work, and to be able to manage how they are represented across the platform.
+
+#### In 2017, the priorities for improving the management of identities are:
 
 **[Integrate logins across mapstory.org, Wiki, Warper and other tools] (items/oauth.md)**
 
