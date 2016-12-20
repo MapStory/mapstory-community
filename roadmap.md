@@ -42,7 +42,7 @@ For a Registered User, exploring is about initiating action. A registered user g
 
 The core foundation of MapStory.org is the spatio-temporal data layers that exist inside of the platform. These StoryLayers are a bit like a wikipedia article in the form of an animated map - they project the "objective" what/wheren/when, and they can be constantly edited for completeness and accuracy. Users can begin StoryLayers by importing raw data, or by creating a new StoryLayer right in the app.
 
-### In 2017 the priorities for improving the import and creation of StoryLayers are:
+#### In 2017 the priorities for improving the import and creation of StoryLayers are:
 
 **[Enable import of raster imgagery] (items/raster.md)**
 
