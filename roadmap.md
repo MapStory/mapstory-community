@@ -24,6 +24,8 @@ The roadmap below is intended to guide continuous improvement of the Beta releas
 
 In order to scale as envisioned, MapStory.org requires a technical infrastructure that can support such scale. In 2017 the infrastructure priorties are to deal with residual technical debt left over from 2016 development, to complete test coverage for the app, and to refine our DevOps process that enables bug reports to migrate from demo to production environments, among others.
 
+#### In 2017, the priorities for improving the MapStory infrastructure are:
+
 **[Technical Debt] (items/technical-debt.md)**
 
 **[Tests] (items/tests.md)**
