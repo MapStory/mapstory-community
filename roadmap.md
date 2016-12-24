@@ -26,7 +26,7 @@ In order to scale as envisioned, MapStory.org requires a technical infrastructur
 
 **[Technical Debt]
 
-**[Tests]
+**[Tests] (items/tests.md)**
 
 **[DevOps]
 
