@@ -28,7 +28,7 @@ In order to scale as envisioned, MapStory.org requires a technical infrastructur
 
 **[Tests] (items/tests.md)**
 
-**[DevOps]
+**[DevOps] (items/DevOp.md)**
 
 **[Scalability improvements] (items/scalability.md)**
 
