@@ -1,4 +1,4 @@
-## MapStory.org integration with wiki and warper
+## User Story
 
 MapStory has a bigger universe than just the site. There is also the wiki and the warper. And more tools will
 likely come in the future (like osqa and geogit). One should be able to login to mapstory.org and not have 
