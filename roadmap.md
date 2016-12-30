@@ -122,7 +122,7 @@ Storytelling is the process of combining StoryLayers with other types of subject
 
 **[Provide mapstory "templates" with pre-set element configurations](items/mapstory-templates.md)**
 
-**[Enable multiple users to work on the same MapStory, at the same time](multi-user-mapstorytelling.md)**
+**[Enable multiple users to work on the same MapStory, at the same time](items/multi-user-mapstorytelling.md)**
 
 **[Enable 3D MapStories](items/3d.md)**
 
