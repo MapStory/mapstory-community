@@ -1,22 +1,22 @@
 
-## Single Chapter Mapstories ("short stories")
+## User Story
 
-In the short run, the viewer page for a single chapter mapstory should not show the "chapter info" and "summary" information twice, as it currently does. In the longer run we may want to think about a unique page format for a single chapter "short story"
+As a user, I want to be able to view a published story with 2 basic modes: "Museum" and "Interactive". Museum Mode means that a story can be played from start to finish with no viewer interactivity required. All StoryPin media will play automatically, chapters will transition automatically, etc. Interactive mode means that that, while the storyteller can set the "default playback settings" he/she would prefer a viewer to view the story in, the viewer can always hit "pause" and engage with content...like clicking StoryPins on and off, or scrolling back and forth on the timeline.
 
-## Museum Playback Mode
+## Requirements
 
-The so-called "museum mode" implies that a mapstory could be played all the through, and continuously, without any user interactivity. Thus, in a museum, the mapstory could continuously display without any action by staff. Museum requires that chapter transitions happen without user click, that StoryPin pop-ups occur automatically, and that any embedded media in StoryPins plays automatically as well.
+### For Museum Mode
 
-## Interactive Mode
+- [ ] StoryPin media automatically plays, and then story resumes when media is complete
+- [ ] StoryPin content can scroll in the sidebar, as well as on the map.
 
-An interactive mode would be a mode where viewers of the mapstory can interact with features in the story. For example, a user could zoom in and out on the map interface, thus overriding the default zoom settings that the storytelling set. Also, a user could click on features to see FeatureBox popups. Also, the user could scrub the timeline to see features play aggressively, or change the playback rate of a chapter. Interactive Mode should have a 'magic button' that lets a viewer "return to origin settings" of the chapter and begin the chapter again with the original settings in tact.
+### For Interactive Mode
 
-### Tech plan/notes
-
-
-### Wireframes
-(optional, remove if not relevant)
-
-### People
+- [ ] Create a button that lets a viewer "return to origin settings" of the chapter in a story and begin the chapter again with the original default playback settings in tact that the storyteller wanted
+- [ ] allow viewer to toggle basemaps on a story
+- [ ] allow viewer to toggle layers and legend on/off
+- [ ] allow user to zoom in and out on the story and play the story with those zoom settings persisted until changed.
 
 ### Issues
+
+### People
