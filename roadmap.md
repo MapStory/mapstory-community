@@ -110,8 +110,6 @@ Storytelling is the process of combining StoryLayers with other types of subject
 
 **[Implement playback modes ("Museum", "Interactive")] (items/playback-settings.md)**
 
-**[Provide mapstory "templates" with pre-set element configurations](items/mapstory-templates.md)**
-
 **[Let storyteller customize their Legend] (items/legend.md)**
 
 **[Upgrade functionality of FeatureBoxes] (items/feature-boxes.md)**
@@ -121,6 +119,8 @@ Storytelling is the process of combining StoryLayers with other types of subject
 **[Support Geologic Time for all MapStory elements] (items/time-new.md)**
 
 **[Enable StoryPins to be streamed off the map in sidebar] (items/annotations2.md)**
+
+**[Provide mapstory "templates" with pre-set element configurations](items/mapstory-templates.md)**
 
 **[Enable multiple users to work on the same MapStory, at the same time](multi-user-mapstorytelling.md)**
 
