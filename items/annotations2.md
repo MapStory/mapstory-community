@@ -1,19 +1,19 @@
-## Requirements/Spec
+## User Story
+
+As a user, I need be able to define the time range for my StoryPins by clicking on the timeline, rather than selecting in a calendar box.
+
+## Requirements
 
 Learning from the work done in the [first round](annotations.md) of annotation work this will mostly be
 focused on user testing and improving in the ways that real people are interested in.
 
 One enhancement we know we need to make to StoryPins is to let them be streamed off-the-map (in the sidebar). We also need to consider the roll of StoryPins in a MapStory played on a mobile device.
 
-### User Strories
+## Design and User Stories
 
-As a user, I want to make sure my StoryPins can extend back to the same geologic time scale as my layers. 	
+## People
 
-As a user, I need be able to define the time range for my StoryPins by clicking on the timeline, rather than selecting in a calendar box.
-
-### Wireframes/design
-
-### Old fodder
+## Old fodder
 
 **Example (draft -- wireframe only)**
 
