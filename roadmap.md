@@ -140,7 +140,7 @@ Everything in MapStory.org is done by _people_. It is a social platform with hig
 
 **[Improve Journal](items/journal.md)**
 
-**[Improve Homepage](items/homepage.md)  
+**[Improve Homepage](items/homepage.md)**  
 
 ### Ideas (catch all)
 
