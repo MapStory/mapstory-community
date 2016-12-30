@@ -137,11 +137,11 @@ Everything in MapStory.org is done by _people_. It is a social platform with hig
 
 **[Let users edit basic profile information on a mobile device](items/mobile.md)**
 
+**[Implement new interface for organization pages] (items/org-pages.md)**
+
 **[Let users control display of their StoryLayers and MapStories on their profile] (items/storytellers.md)**
 
 **[Refine notification streams to help users follow activity they care about](items/notification-streams.md)**
-
-**[Implement new interface for organization pages] (items/org-pages.md)**
 
 ### Cross-cutting
 
