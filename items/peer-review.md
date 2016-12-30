@@ -1,20 +1,13 @@
-##
+## User Story
 
-MapStory currently provides mechanisms for "peer reviewing" StoryLayers - aside from editing features themselves. These mechanisms include providing a "Star Rating" and flagging the layer for inaccuracy, violating terms, or being broken.
-
-We haven't yet thought deeply about the metrics that drive these tools, or how they are communicated to the user.
+MapStory currently provides a start-rating mechanism for "peer reviewing" StoryLayers. As a user, I need more understanding of the algorithm that defines these ratings. For example, is there a minimum number of ratings that are needed before a rating will occur? Also, how to we break ties? Does every user's rating count equally, or do some users have more weighted impact in their ratings?
 
 Also, what other peer review tools might help a user understand the completeness and accuracy of a layer?
 
-### Requirements/spec
+## Requirements/spec
 
+- [ ] first step will be to have a deep dive discussion to iron out intended user stories. then implement
 
-### Tech plan/notes
+## Design and User Stories
 
-
-### Wireframes
-(optional, remove if not relevant)
-
-### People
-
-### Issues
+## People
