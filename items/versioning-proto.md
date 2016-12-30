@@ -13,4 +13,4 @@ The current 0.0 editing interface has a basic sidebar that lets a user add, edit
 
 ## User and Design Stories
 
-### People
+## People
