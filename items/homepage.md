@@ -12,6 +12,8 @@ Wikipedia uses a super simple homepage that focuses on letting the user assert w
 
 If our Transifex language filter works properly, we don't need this first tier filter. Users should be able to change our basic homepage, and subsequent user experience, into whatever language they desire.
 
+It seems to make sense to really highlight the homepage as a place to "show-off"...that is, the great mapstories, exciting initiatives, highest priority storylayers for editing in the moment, etc. Then "EXPLORE" is more like an objective encyclopedia/library search that doesn't have a curators' touch.
+
 ## Issues
 
 ## People
