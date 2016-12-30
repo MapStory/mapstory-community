@@ -104,8 +104,6 @@ Storytelling is the process of combining StoryLayers with other types of subject
 
 **[Create scaled-down viewer detail page for single-chaper mapstories ("short stories")](/items/short-stories.md)**
 
-**[Provider story owners more power to customize story detail pages](/items/MapStory_Detail_Page.md)**
-
 **[Implement new interface for MapStory composing] (items/composer-new.md)** 
 
 **[Implement playback modes ("Museum", "Interactive")] (items/playback-settings.md)**
@@ -122,9 +120,12 @@ Storytelling is the process of combining StoryLayers with other types of subject
 
 **[Provide mapstory "templates" with pre-set element configurations](items/mapstory-templates.md)**
 
+**[Provider story owners more power to customize story detail pages](/items/MapStory_Detail_Page.md)**
+
 **[Enable multiple users to work on the same MapStory, at the same time](items/multi-user-mapstorytelling.md)**
 
 **[Enable 3D MapStories](items/3d.md)**
+
 
 ### Identities
 
