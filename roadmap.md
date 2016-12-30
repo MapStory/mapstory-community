@@ -72,7 +72,7 @@ The core foundation of MapStory.org is the spatio-temporal data layers that exis
 
 **[Incorporate Longitudinal Gazetteer for place names](items/longitudinal-gazetteer.md)**
 
-**[Enable Community Initiative Leads to define pre-set Schemas for data imported or appended to Initiative StoryLayers] (items/community-infra.md)**
+**[Fully enable Community Initiatives] (items/community-infra.md)**
 
 ### Editing & Reviewing
 
