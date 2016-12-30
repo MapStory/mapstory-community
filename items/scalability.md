@@ -1,49 +1,9 @@
-## Scalability
+## User Story
 
-MapStory should be able to scale to any user demand. Ideally caching at most every level and auto deploying 
+As a User, I need confidence that MapStory cane scale to any user demand. Ideally caching at most every level and auto deploying 
 more servers as resources get maxed out.
 
-### User Stories
-(StoryScapes)
-Set up Redmine 
-
-Code in GitLab
-
-Building in Jenkins
-
-About.yml (in project) compliant with 18F standard 
-
-“Sidecar” GitLab project for additional .yml files to support automated security artifact generation
-
-Jenkins build tied in with:
-
-SonarQube
-
-HP Fortify (maybe findbugs in the future)
-
-OWASP ZAP
-
-Ion Channel
-
-Nessus/OpenScap  
-
-All critical & high issues addressed for above
-
-Manual research for vulnerabilities (especially for code not covered by scanning suite)
-
-Remediation identified for any vulnerabilities  
-
-GEOAXiS  Integration (once inside UC) 
-
-(MapStory)
-
-As a user, I need to have complete test coverage for mapstory.org platform to avoid regressions as we push new functionality
-
-As a user, I need to have a DevOps process that will enable us to manage a live mapstory.org with users (i.e. triage of user issues, scrum governance, etc)
-
-
-
-### Requirements
+## Requirements
 
 There are two major goals of this round of work. 
 
@@ -57,9 +17,7 @@ The second is to enable CloudFront caching. This item actually has most all the 
 with a number of improvements that have come in. It needs to be enabled and tested. The backend caching also
 does not appear to be consistent, so that also needs to be figured out.
 
-### Tech plan
-The very first step is to get to a three tier architecture for MapStory, so we can potentially cluster each tier, 
-see [#725] (https://github.com/MapStory/mapstory/issues/725). 
+The very first step is to get to a three tier architecture for MapStory, so we can potentially cluster each tier.
 
 The next step is to upgrade to GeoServer 2.3.0. dbconfig and other thing.
 
@@ -78,3 +36,7 @@ caching/duplicating all of geoserver's information in it's own models but this a
 the page will render but the map will be broken (with no notice to the user) and adds much complexity. 
 As a fix for #733, I'd like to resolve the resources up front (before the render) and take appropriate action 
 (put notice on the page and avoid pink tiles) if geoserver is down.
+
+## User and Design Story Issues
+
+## People
