@@ -1,8 +1,10 @@
-## Requirement/Spec
+## User Story
 
 The StoryFrame and StoryPin features in the mapstory composer do not support going back to the geologic time scale that we seek for importer. This means that the storyteller would not be able to match their pins and frames with their layers in this situation.
 
 We need to reconfiguren the time support for thse features.
+
+## Requirement/Spec
 
 As part of this work, we may need to experiment with our timeline itself.
 To make sure we don't lose functionality this list is an attempt to list what the new time slider should support.
