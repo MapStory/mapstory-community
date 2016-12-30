@@ -1,24 +1,24 @@
+## User Story
+
+As a User, I want to easily find content (StoryLayers and MapStories) that are related to content I searched for and am clearly interested in.
+
 ## Requirements/spec
 
-Link StoryLayers and MapStories by a series of "related" concepts to promote discovery and sustained user engagement.
-
-### On the StoryLayer detail page
-
-Show MapStories that use this StoryLayer
-Show other StoryLayers that are "similar" to this StoryLayer. Definitions of "similar" could be driven by categories, time, geography, tags.
+### On the StoryLayer detail page...
+- [ ] Show StoryLayers that have the same category.
+- [ ] Show StoryLayers that have the same tag
+- [ ] Show StoryLayers that have the same time range
+- [ ] Show StoryLayers that have the same geographic range
+- [ ] Show MapStories that use this StoryLayer
 
 ### On the MapStory detail page:
 
-Show other MapStories by this Storyteller
-Show other MapStories that are "simiar". Definitions of "similar" could be driven by categories, time, geography, tags.
+- [ ] Show other MapStories by this Storyteller
+- [ ] Show MapStories that have the same tag
+- [ ] Show MapStories that have the same category
+- [ ] Show MapStories that have the same time range
+- [ ] Show MapStories that have the same geographic range
 
-
-## Tech plan/notes
-
-
-### Wireframes
-(optional, remove if not relevant)
+## Design and User Stories
 
 ## People
-
-## Issues
