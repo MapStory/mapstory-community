@@ -4,7 +4,7 @@ Organizations should be able to customize a presence on MapStory, similar how on
 
 ### Requirements
 
-The organization page should be at a simple URL, like www.mapstor.org/OrgName
+The organization page should be at a simple URL, like www.mapstory.org/OrgName
 
 A user should be able to be given "admin rights" over an Organization Page. This empowers them to edit the Organization Page profile and add storytellers to the profile. Similar function to a Facebook organization page.
 
