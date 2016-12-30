@@ -4,7 +4,7 @@ The Journal is designed as a place for all registered users to author posts that
 
 Currently a juser can author an entry. To style text with bold, italics, etc they must use markdown. Posts are listed in the Journal by most-recent. There is no other way to filter. Once a post is published, it also appears on a user profile.
 
-An upgrade to the Journal will focus on 3 aslects:
+An upgrade to the Journal will focus on:
 
 - [ ] Adding a WYSIWYG editor to make authoring easier. Priority WYSIWYG functions are: bold, italics, underline, header (1-5), bulletted (dots and numbers), quote, hyperlink
 - [ ] Let any author add tags to a post. Have auto-complete for tags to promote common spellings
