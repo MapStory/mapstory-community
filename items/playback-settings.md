@@ -17,6 +17,6 @@ As a user, I want to be able to view a published story with 2 basic modes: "Muse
 - [ ] allow viewer to toggle layers and legend on/off
 - [ ] allow user to zoom in and out on the story and play the story with those zoom settings persisted until changed.
 
-### Issues
+## Issues
 
-### People
+## People
