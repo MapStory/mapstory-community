@@ -1,4 +1,4 @@
-## Styling Greatness 
+## User Story
 
 Intuitive styling of maps is of key importance to MapStory's success. We need to match the baseline of what others do through the web, and push the limits. CartoDB and MapBox are the ones really innovating with this. The cartodb approach is probably 
 most apt for MapStory - an intuitive GUI to create basic styles and generate some more 
@@ -14,6 +14,8 @@ In 2017 the main goal for styling is to address the "clutter" that will emerge w
 - [ ] Enable heat map styling
 - [ ] Let a user "pick" from a drop-down of publically saved styles on a layer, similar to the way they can pick from a drop-down for basemaps now.
 
+## User and Design Stories
 
+## People
 
 
