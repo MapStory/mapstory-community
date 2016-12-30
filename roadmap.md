@@ -46,11 +46,11 @@ For a Registered User, exploring is about initiating action. A registered user g
 
 **[Locate StoryLayers and MapStories in Space and Time](items/search.md)**
 
-**[Show StoryLayers and MapStories that are "related" to each other](items/related-content.md)**
-
 **[Enable searching for and playing MapStories on mobile devices](items/mobile.md)**
 
 **[Enable animated GIF or video output for viral sharing](items/animated-sharing.md)**
+
+**[Show StoryLayers and MapStories that are "related" to each other](items/related-content.md)**
 
 **[Refine notification streams to help users follow activity they care about](items/notification-streams.md)**
 
