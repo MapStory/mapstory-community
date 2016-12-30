@@ -52,7 +52,7 @@ For a Registered User, exploring is about initiating action. A registered user g
 
 **[Show StoryLayers and MapStories that are "related" to each other](items/related-content.md)**
 
-**[Refine notification streams to help users follow activity they care about](items/notification-streams.md)**
+
 
 ### Importing/Creating StoryLayers
 
@@ -131,6 +131,8 @@ Everything in MapStory.org is done by _people_. It is a social platform with hig
 **[Let users edit basic profile information on a mobile device](items/mobile.md)**
 
 **[Let users control display of their StoryLayers and MapStories on their profile] (items/storytellers.md)**
+
+**[Refine notification streams to help users follow activity they care about](items/notification-streams.md)**
 
 **[Implement new interface for organization pages] (items/org-pages.md)**
 
