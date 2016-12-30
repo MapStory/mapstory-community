@@ -1,18 +1,12 @@
 
-## Geologic Time
+## User Story
 
-A true "historical atlas" will enable users to map history extending back to the beginning of Earth. Extending the importing to support geologic time data will necessitate working through abstraction levels (eras, epochs). Need test data.
+As a user, I need a way to import my data that represents geologic scale events, such as the formation of land features or the evolution of species.
 
+## Requirements/spec
 
-### Requirements/spec
-
-
-### Tech plan/notes
-
-
-### Wireframes
-(optional, remove if not relevant)
-
-### People
+Obviously, geologic scale imports represent questions for our time structure. Should we abstract to epochs or eras of some definition? At minimum we should first support what our old importer supported at 290 million. Then, a solution should be implemented that lets us represent data for any point in Earth's 4.5 billion year history.
 
 ### Issues
+
+### People
