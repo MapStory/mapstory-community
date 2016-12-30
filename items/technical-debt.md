@@ -4,4 +4,4 @@ MapStory.org pulls from several different open source projects, including GeoNod
 
 ##People
 
-##Issues
+##Us
