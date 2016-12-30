@@ -1,13 +1,11 @@
-## Remote data streams 
+## User Story
 
-Instead of requiring all data to be uploaded to MapStory it would be good to let users add remote data. 
+As a user I want the option to create StoryLayers out of remote data, instead of having all data be uploaded to MapStory.
+
+## Requirements/Specs
+
 Things like WMS, GeoRSS, KML. Some of these will likely be 'live', like USGS earthquake maps, where we 
-want them to stay up to date with latest.
-
-### Notes
-
-Probably should start with WMS. GeoNode has had some work done towards this. Hopefully that completes
-and we can build on it. Handling things in GeoNode/Django is probably the right way to go, so we
+want them to stay up to date with latest. Probably should start with WMS. GeoNode has had some work done towards this. Hopefully that completes and we can build on it. Handling things in GeoNode/Django is probably the right way to go, so we
 can get at all the normal StoryLayer features. Like I think for remote data we still want the 
 ability to comment on it, see what stories it's used in, etc.
 
@@ -25,3 +23,7 @@ for some collaboration, and for building up the stories from the layer.
 
 Would be good to investigate the GeoTools level, and perhaps make an abstraction layer for any type
 of remote data.
+
+## Issues
+
+## People
