@@ -1,13 +1,11 @@
-## Mobile Search and Playback
+## User Story
 
-Users should be able to visit mobile-friendly version of mapstory.org on a mobile device and conduct basic searches of StoryLayers and MapStories and then "playback" content.
+Users should be able to visit mobile-friendly version of mapstory.org on a mobile device and conduct basic searches of StoryLayers and MapStories and then "playback" content in a way that is formatted for that device.
 
-## Mobile Editing
+## Requirements
 
-Eventually, we should enable users to edit StoryLayers from a mobile device. This would do a great service to engagement on the platform. Imagine someone who is following a "public parks" layer who is able to add a park to the layer when they are visiting it that they discovcer is not yet on the layer.
+We will need to think through the best playback settings for layers and stories viewed on a mobile device. It might make sense to have a set "playback mode" for mobile that is different than Museum and Interactive that feels more like an Animated Gif. See then gifs Rey Dizon created and shared on MapStory's twitter account (i.e. https://twitter.com/cartoranger/status/605782865620537345). These present the title and time information in a simple and clear way.
 
-### Notes
+## Design and User Stories
 
-We will need to think through the best playback settings for layers and stories viewed on a mobile device. 
-
-It would be great to leverage the "location-aware" nature of mobile devices so that layers, stories (and even features) that implicate "where you are" can be pushed up in a search.
+## People
