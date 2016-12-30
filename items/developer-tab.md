@@ -1,6 +1,6 @@
-## Developer tab
+## User Story
 
-Provide a way for developers to access the service endpoints for MapStory. We do good open standards and
+As a developer, I want a way for developers to access the service endpoints for MapStory. We do good open standards and
 open data API's, and we should make that obvious
 
 ### Requirements/spec
@@ -30,18 +30,6 @@ links to more resources. Some ideas for the things to document:
 * Tile access, just some sample tile requests, to TMS or XYZ tiles
 
 
-### Tech plan/notes
+## User and Design Stories
 
-May need to do some GeoServer WPS calls and possibly make some processes to get sample values.
-
-### Wireframes
-
-
-### People
-Mostly a django person, potentially some geoserver person.
-
-
-### Issues
-
-No main issue yet, but should tackle https://github.com/MapStory/mapstory/issues/766 as part of this. Download is
-related to this, though a bit different.
+## People
