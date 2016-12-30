@@ -102,7 +102,7 @@ Storytelling is the process of combining objective StoryLayers with other types 
 
 **[Implement new interface for MapStory composing] (items/composer-new.md)** 
 
-**[Implement playback modes ("Museum", "Interactive)] (items/playback-settings.md)**
+**[Implement playback modes ("Museum", "Interactive")] (items/playback-settings.md)**
 
 **[Provide mapstory "templates" with pre-set element configurations](items/mapstory-templates.md)**
 
