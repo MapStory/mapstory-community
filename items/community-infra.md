@@ -8,3 +8,6 @@ As a user, I want to be able to lead a Community Initiatives. A community initia
 
 - [ ] MapStory administrators should be able to create an "Initiative Page" through the django-admin backend. The Initiative Page should display the StoryLayers that are considered part of the Initiative; the users that are considered the "Leads"; Journal Entries that have a Tag for the Initiative; what else? 
 
+## Design and User Stories
+
+## People
