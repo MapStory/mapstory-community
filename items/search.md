@@ -10,7 +10,6 @@ The implementation for Geographic Search on Retro was a bounding box. The user c
 
 A big leap forward for MapStory search would also be the ability to search at a feature level...rather than just layers and stories. The advent of the Gazetteer will generate linkages between individual features, also opening up possibilities for feature-level search.
 
-### People
+## User and Design Stories
 
-### User and Design Stories
-
+## People
