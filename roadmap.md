@@ -52,6 +52,8 @@ For a Registered User, exploring is about initiating action. A registered user g
 
 **[Show StoryLayers and MapStories that are "related" to each other](items/related-content.md)**
 
+** [Populate search results based on actual location](items/location-aware-search.md)**
+
 
 
 ### Importing/Creating StoryLayers
