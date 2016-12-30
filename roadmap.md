@@ -110,7 +110,7 @@ Storytelling is the process of combining objective StoryLayers with other types 
 
 **[Upgrade functionality of FeatureBoxes] (items/feature-boxes.md)**
 
-**[Add heatmap and clustered styling](items/styling.md)**
+**[Improvements to styling](items/styling.md)**
 
 **[Support Geologic Time for all MapStory elements] (items/time-new.md)**
 
