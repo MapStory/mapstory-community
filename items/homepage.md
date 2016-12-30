@@ -1,4 +1,4 @@
-***Requirements/Specs
+##Requirements/Specs
 
 The MapStory homepage needs a review, led by a designer. 
 
@@ -11,3 +11,7 @@ Other analogs we look at are change.org, kickstarter, YouTube, Medium. All of th
 Wikipedia uses a super simple homepage that focuses on letting the user assert what language they want to view content in. Then, the user is brought to a second home page that serves as a digest of featured content, and a place to search or sign up.
 
 If our Transifex language filter works properly, we don't need this first tier filter. Users should be able to change our basic homepage, and subsequent user experience, into whatever language they desire.
+
+## Issues
+
+## People
