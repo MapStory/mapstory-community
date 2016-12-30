@@ -132,7 +132,7 @@ Everything in MapStory.org is done by _people_. It is a social platform with hig
 
 **[Let users control display of their StoryLayers and MapStories on their profile] (items/storytellers.md)**
 
-**[Provide Organization Page owners with analytics] (items/org-pages.md)**
+**[Implement new interface for organization pages] (items/org-pages.md)**
 
 ### Cross-cutting
 
