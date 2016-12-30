@@ -140,6 +140,8 @@ Everything in MapStory.org is done by _people_. It is a social platform with hig
 
 **[Improve Journal](items/journal.md)**
 
+**[Improve Homepage](items/homepage.md)  
+
 ### Ideas (catch all)
 
 **[CSW + permissioning infrastructure (GN 2.0 upgrade)] (items/geonode2.md)** - Incorporate pycsw and the richer
