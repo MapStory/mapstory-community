@@ -1,6 +1,10 @@
 ## User Story
 
-As a user, I need be able to define the time range for my StoryPins by clicking on the timeline, rather than selecting in a calendar box.
+Focus on 2 user stories in next round for StoryPins (in addition to already mentioned stories on geologic time and automatic playback in Museum Mode):
+
+1) As a user, I need be able to define the time range for my StoryPins by clicking on the timeline, rather than selecting in a calendar box.
+
+2) As a user, I need to be able to have StoryPins play back on the sidebar, as well as on the pop-up on the map.
 
 ## Requirements
 
