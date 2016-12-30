@@ -102,7 +102,7 @@ Storytelling is the process of combining StoryLayers with other types of subject
 
 #### In 2017, the priorities for improving the storytelling experience are:
 
-**[Create scaled-down viewer detail page for single-chaper mapstories ("short stories")](items/playback-settings.md)**
+**[Create scaled-down viewer detail page for single-chaper mapstories ("short stories")](/items/short-stories.md)**
 
 **[Provider story owners more power to customize story detail pages](/items/MapStory_Detail_Page.md)**
 
