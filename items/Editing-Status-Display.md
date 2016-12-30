@@ -1,6 +1,8 @@
-## Requirements/spec
+## User Story
 
-The purpose of the "StoryLayer detail page" is to provie a user with a overview of the data provided in a StoryLayer, and the status of its community editing work. The information displayed on the StoryLayer detail page should help a user make 2 decisions 1) Can/should they edit it to make it more complete and accurate? And, can/should they use it in a MapStory?
+As a user, I need a StoryLayer detail page that provides overview of the data provided in a StoryLayer, and the status of its community editing work. The information displayed on the StoryLayer detail page should help a user make 2 decisions 1) Can/should I edit it to make it more complete and accurate? And, can/should I use it in a MapStory?
+
+## Requirements/spec
 
 Currently, the StoryLayer detail page provides a user with basic metadata and a summary of how many times the layer has been edited, and by how many users. 
 
@@ -10,12 +12,6 @@ The next-generation StoryLayer detail page should provide more information, such
 - [] List of sources used by all editors (like footnotes)
 - [] Contributing editors presented as a "leaderboard"
 
-### Tech plan/notes
-
-
-### Wireframes
-(optional, remove if not relevant)
+### Design and User Issues
 
 ### People
-
-### Issues
