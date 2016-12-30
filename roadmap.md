@@ -98,7 +98,7 @@ The goal of editing and reviewing is to make StoryLayers more complete and accur
 
 ### Storytelling
 
-Storytelling is the process of combining objective StoryLayers with other types of subjective annotation and media. The goal of a MapStory is to answer "how" and "why" questions, not just the "what/where/when". Storytellers should be able to use StoryLayers already in the platform provided by others and put those StoryLayers to work for the story they want to tell. This means adding a unique style to StoryLayers, only using part of a StoryLayers total timespan, controlling zoom levels for StoryLayers so we only see the geography that the storyteller wants us to see, adding contextual info, etc.
+Storytelling is the process of combining StoryLayers with other types of subjective annotation and media. The goal of a MapStory is to answer "how" and "why" questions, not just the "what/where/when" that a StoryLayer covers. Storytellers should be able to use StoryLayers already in the platform provided by others and put those StoryLayers to work for the story they want to tell. This means adding a unique style to StoryLayers, only using part of a StoryLayers total timespan, controlling zoom levels for StoryLayers so we only see the geography that the storyteller wants us to see, adding contextual info, etc.
 
 #### In 2017, the priorities for improving the storytelling experience are:
 
