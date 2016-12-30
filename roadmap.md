@@ -118,7 +118,7 @@ Storytelling is the process of combining StoryLayers with other types of subject
 
 **[Support Geologic Time for all MapStory elements] (items/time-new.md)**
 
-**[Enable StoryPins to be streamed off the map in sidebar] (items/annotations2.md)**
+**[StoryPin improvements] (items/annotations2.md)**
 
 **[Provide mapstory "templates" with pre-set element configurations](items/mapstory-templates.md)**
 
