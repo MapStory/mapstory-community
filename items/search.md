@@ -1,4 +1,4 @@
-## Usoer Story
+## User Story
 
 As a user visting MapStory.org, I should be able to discover StoryLayers and MapStories based on time spans and geographic locations that interest me
 
