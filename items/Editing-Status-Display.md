@@ -8,9 +8,9 @@ Currently, the StoryLayer detail page provides a user with basic metadata and a 
 
 The next-generation StoryLayer detail page should provide more information, such as:
 
-- [] Heatmap/timeline to show density of edits over time (similar to Github)
-- [] List of sources used by all editors (like footnotes)
-- [] Contributing editors presented as a "leaderboard"
+- [ ] Heatmap/timeline to show density of edits over time (similar to Github)
+- [ ] List of sources used by all editors (like footnotes)
+- [ ] Contributing editors presented as a "leaderboard"
 
 ### Design and User Issues
 
